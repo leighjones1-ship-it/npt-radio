@@ -1,0 +1,22 @@
+
+name: Refresh community events
+on:
+  schedule:
+    - cron: '15 */6 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/update_events.py
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Refresh NPT Radio events'
+          file_pattern: events-feed.json
+  

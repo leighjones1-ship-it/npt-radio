@@ -36,3 +36,58 @@ function renderManualEvents(){
  $('eventItems').innerHTML=(Array.isArray(data.events)?data.events:[]).map(e=>`<div class="item"><strong>${safe(e.title)}</strong><small>${safe(e.detail)}</small></div>`).join('')||'<p>No events available yet.</p>';
 }
 loadEvents();
+async function loadNews(){
+ const target=$('newsItems');
+ try{
+  const response=await fetch('./news-feed.json',{cache:'no-store'});
+  if(!response.ok)throw Error('News feed unavailable');
+  const feed=await response.json();
+  const items=Array.isArray(feed.events)?feed.events:[];
+
+  if(!items.length)return;
+
+  target.replaceChildren();
+
+  for(const item of items.slice(0,15)){
+   const card=document.createElement('div');
+   card.className='item';
+
+   const title=document.createElement('strong');
+   title.textContent=item.title||'Local news';
+   card.append(title);
+
+   const details=document.createElement('small');
+   details.textContent=[
+    item.source,
+    item.published
+   ].filter(Boolean).join(' • ');
+   card.append(details);
+
+   if(item.description){
+    const description=document.createElement('p');
+    description.textContent=item.description;
+    card.append(description);
+   }
+
+   if(item.url){
+    try{
+     const url=new URL(item.url);
+     if(url.protocol==='https:'){
+      const link=document.createElement('a');
+      link.href=url.href;
+      link.target='_blank';
+      link.rel='noopener noreferrer';
+      link.textContent='Read full story ↗';
+      card.append(link);
+     }
+    }catch{}
+   }
+
+   target.append(card);
+  }
+ }catch(error){
+  console.warn('RSS news unavailable:',error);
+ }
+}
+
+loadNews();

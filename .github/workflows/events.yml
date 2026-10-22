@@ -1,10 +1,4 @@
-
-      - name: Commit updated events
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: 'Refresh NPT Radio events'
-          file_pattern: events-feed.json
-          push_options: '--force-with-lease'
+name: Refresh community events
 
 on:
   schedule:
@@ -14,27 +8,56 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: npt-events-refresh
+  cancel-in-progress: false
+
 jobs:
   refresh:
     runs-on: ubuntu-24.04
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
-      - name: Check files and run collector
-        run: |
-          pwd
-          ls -la
-          ls -la scripts
-          python scripts/update_events.py
+      - name: Run event collector
+        run: python scripts/update_events.py
 
-      - name: Commit updated events
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: 'Refresh NPT Radio events'
-          file_pattern: events-feed.json
+      - name: Commit and push events safely
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add events-feed.json
+
+          if git diff --cached --quiet; then
+            echo "No event changes to publish."
+            exit 0
+          fi
+
+          git commit -m "Refresh NPT Radio events"
+
+          for attempt in 1 2 3; do
+            git fetch origin main
+            if ! git rebase origin/main; then
+              git rebase --abort || true
+              echo "Rebase conflict: manual review needed."
+              exit 1
+            fi
+
+            if git push origin HEAD:main; then
+              echo "Events published successfully."
+              exit 0
+            fi
+
+            echo "Push attempt $attempt failed; retrying."
+          done
+
+          exit 1

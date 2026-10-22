@@ -16,7 +16,37 @@ async function loadEvents(){
  try{
   const response=await fetch('./events-feed.json',{cache:'no-store'});
   if(!response.ok)throw Error('Feed unavailable');
-  const feed=await response.json();
+  onst feed=await response.json();
+
+  // Add events from verified public RSS calendars.
+  try{
+   const rssResponse=await fetch('./rss-events-feed.json',{
+    cache:'no-store'
+   });
+
+   if(rssResponse.ok){
+    const rssFeed=await rssResponse.json();
+    const existing=Array.isArray(feed.events)?feed.events:[];
+    const rssEvents=Array.isArray(rssFeed.events)?rssFeed.events:[];
+
+    const combined=[...existing,...rssEvents];
+    const seen=new Set();
+
+    feed.events=combined.filter(event=>{
+     const key=[
+      event.date,
+      (event.title||'').trim().toLowerCase(),
+      (event.location||'').trim().toLowerCase()
+     ].join('|');
+
+     if(seen.has(key))return false;
+     seen.add(key);
+     return true;
+    });
+   }
+  }catch(error){
+   console.warn('RSS events unavailable:',error);
+  }
   const today=new Date();
   const entries=(Array.isArray(feed.events)?feed.events:[]).filter(e=>e.date && new Date(e.date+'T23:59:59')>=today).sort((a,b)=>a.date.localeCompare(b.date)).slice(0,20);
   if(entries.length){

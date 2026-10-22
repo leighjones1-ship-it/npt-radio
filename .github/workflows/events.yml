@@ -1,42 +1,34 @@
-
 name: Refresh community events
+
 on:
   schedule:
     - cron: '15 */6 * * *'
   workflow_dispatch:
+
 permissions:
   contents: write
+
 jobs:
   refresh:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      -
-      - name: Check files and run event collector
+
+      - name: Check files and run collector
         run: |
-      - name: Check files and run event collector
-        run: |
-          echo "Checked-out commit:"
-          git rev-parse HEAD
-          echo "Files in repository:"
+          pwd
           ls -la
-          echo "Files in scripts folder:"
           ls -la scripts
           python scripts/update_events.py
-  
-          echo "Checked-out commit:"
-          git rev-parse HEAD
-          echo "Files in repository:"
-          ls -la
-          echo "Files in scripts folder:"
-          ls -la scripts
-          python scripts/update_events.py
-  
-      - uses: stefanzweifel/git-auto-commit-action@v5
+
+      - name: Commit updated events
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'Refresh NPT Radio events'
           file_pattern: events-feed.json
-  

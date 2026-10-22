@@ -14,7 +14,17 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: python scripts/update_events.py
+      -
+      - name: Check files and run event collector
+        run: |
+          echo "Checked-out commit:"
+          git rev-parse HEAD
+          echo "Files in repository:"
+          ls -la
+          echo "Files in scripts folder:"
+          ls -la scripts
+          python scripts/update_events.py
+  
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'Refresh NPT Radio events'

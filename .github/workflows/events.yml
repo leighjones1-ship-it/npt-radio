@@ -17,6 +17,16 @@ jobs:
       -
       - name: Check files and run event collector
         run: |
+      - name: Check files and run event collector
+        run: |
+          echo "Checked-out commit:"
+          git rev-parse HEAD
+          echo "Files in repository:"
+          ls -la
+          echo "Files in scripts folder:"
+          ls -la scripts
+          python scripts/update_events.py
+  
           echo "Checked-out commit:"
           git rev-parse HEAD
           echo "Files in repository:"

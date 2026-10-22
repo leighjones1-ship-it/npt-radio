@@ -1,4 +1,10 @@
-name: Refresh community events
+
+      - name: Commit updated events
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Refresh NPT Radio events'
+          file_pattern: events-feed.json
+          push_options: '--force-with-lease'
 
 on:
   schedule:

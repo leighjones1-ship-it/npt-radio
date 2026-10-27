@@ -140,6 +140,7 @@ def collect(sources, parser):
         url = source.get("url", "")
      
         try:
+           
             items = download(url)
             accepted = 0
 
@@ -148,6 +149,12 @@ def collect(sources, parser):
                 if result:
                     results.append(result)
                     accepted += 1
+
+            print(
+                f"{source.get('name', 'RSS source')}: "
+                f"{len(items)} items received, "
+                f"{accepted} items accepted"
+
 
             print(
                 f"{source.get('name', 'RSS source')}: "

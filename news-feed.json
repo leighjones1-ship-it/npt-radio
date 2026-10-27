@@ -1,4 +1,250 @@
 {
-  "updated_at": "2026-10-27 18:32 UTC",
-  "events": []
+  "updated_at": "2026-10-27 18:42 UTC",
+  "events": [
+    {
+      "title": "Police failings in friends' death on mountain ridge could risk lives, coroner warns",
+      "description": "Jayden Long and Eddie Hill died after police failed to adequately escalate a dropped 999 call.",
+      "url": "https://www.bbc.co.uk/news/articles/cw20348xyjg2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Tue, 27 Oct 2026 17:25:29 GMT"
+    },
+    {
+      "title": "Boy, 14, denies murdering teenage girl whose body was found in park",
+      "description": "Lilly Jones was found in woodlands in south Wales, two days after she had been reported missing.",
+      "url": "https://www.bbc.co.uk/news/articles/c63elwwpyl2qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Tue, 27 Oct 2026 13:01:20 GMT"
+    },
+    {
+      "title": "Adventurer completes 400-mile expedition after losing contact with team",
+      "description": "Ash Dykes is trying to complete six back-to-back expeditions in a variety of extreme environments.",
+      "url": "https://www.bbc.co.uk/news/articles/crq5n7e1jjjzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Tue, 27 Oct 2026 18:31:07 GMT"
+    },
+    {
+      "title": "Gambling addict swindled council out of £7k for rent and Amazon shopping",
+      "description": "Karen Deakin was given a 12-month suspended prison sentence after admitting defrauding Pembrokeshire council.",
+      "url": "https://www.bbc.co.uk/news/articles/cx1l379481vdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Tue, 27 Oct 2026 14:37:17 GMT"
+    },
+    {
+      "title": "Dancer's family were told to say goodbye after stroke - now he hopes to perform again",
+      "description": "After being told he would never walk or talk again, Dan hopes to dance before his 30th birthday.",
+      "url": "https://www.bbc.co.uk/news/articles/cq20350yv5d7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Tue, 27 Oct 2026 06:38:32 GMT"
+    },
+    {
+      "title": "Sir Tom Jones 'truly sorry' as he cancels two shows due to illness",
+      "description": "Sir Tom has pushed back two concerts in the US on doctor's advice, due to \"a bad case of the flu\".",
+      "url": "https://www.bbc.co.uk/news/articles/c699zj38k9ero?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Tue, 27 Oct 2026 08:37:39 GMT"
+    },
+    {
+      "title": "Campaigners warn Welsh island could be target for nuclear attack",
+      "description": "They say plans for the UK's first small modular reactor power station could make it a target.",
+      "url": "https://www.bbc.co.uk/news/articles/c6z7xpez1x7qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Mon, 26 Oct 2026 12:18:26 GMT"
+    },
+    {
+      "title": "More than third of deaths of ex-prisoners on probation drug related, says report",
+      "description": "Politicians are being urged to tackle \"systematic failures\" in the criminal justice system.",
+      "url": "https://www.bbc.co.uk/news/articles/cq77pej86vd4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Tue, 27 Oct 2026 13:13:55 GMT"
+    },
+    {
+      "title": "Man admits murdering mum-of-four by stabbing her in the back",
+      "description": "Albert Williams will be sentenced in December for killing Charlene Dowsell in Newport in July.",
+      "url": "https://www.bbc.co.uk/news/articles/c3zxj7ldv12go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Mon, 26 Oct 2026 12:01:06 GMT"
+    },
+    {
+      "title": "On frontline at hospital denying online claims it is 'dangerous' and 'dreadful'",
+      "description": "Grange University Hospital has faced criticism over long delays, overcrowding and staff shortages.",
+      "url": "https://www.bbc.co.uk/news/articles/cq33xpvgned7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Mon, 26 Oct 2026 10:57:49 GMT"
+    },
+    {
+      "title": "Coronation Street star returns to cobbles after 11 years",
+      "description": "The Welsh actor is back as Owen Armstrong and looking forward to a \"cracking\" storyline.",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1w1w1jjjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Mon, 26 Oct 2026 17:49:40 GMT"
+    },
+    {
+      "title": "Wales needs budget boost, says finance minister",
+      "description": "Elin Jones said more money is needed for day-to-day spending on things like health and education.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lpvlzxxvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Sun, 25 Oct 2026 16:54:46 GMT"
+    },
+    {
+      "title": "Babydoll singer gives Wales its first UK number one in 15 years",
+      "description": "Jamie Miller is the first Welsh artist since 2011 to earn a UK Number 1 single - after Sian Evans' feature on DJ Fresh's Louder.",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7ylzp148eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Fri, 23 Oct 2026 17:03:09 GMT"
+    },
+    {
+      "title": "TV stars to marry in chapel home after proposal 'on Welsh soil'",
+      "description": "Keith Brymer Jones and Marj Hogarth are to marry in their chapel home in Pwllheli in May 2027.",
+      "url": "https://www.bbc.co.uk/news/articles/cw30ej25lvypo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Sat, 24 Oct 2026 15:59:18 GMT"
+    },
+    {
+      "title": "Fitness became an addiction that left me anxious and sleep deprived",
+      "description": "Wayne Davies was left \"constantly worrying\" about race times, comparing himself to other runners on social media.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg909xv1j8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Sat, 24 Oct 2026 06:17:30 GMT"
+    },
+    {
+      "title": "Teen who discovered her painting talent in garden shed competes for TV art prize",
+      "description": "Makenzy Beard discovered her talent after she decided to try out her mother's old paint brushes.",
+      "url": "https://www.bbc.co.uk/news/articles/cq0k0jmepn4eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Mon, 12 Oct 2026 07:42:10 GMT"
+    },
+    {
+      "title": "Monk on Caldey Island gave naked photos of himself to visitors",
+      "description": "The monk denies sexually assaulting a visitor, who says he also gave her naked photos of himself.",
+      "url": "https://www.bbc.co.uk/news/articles/cwr7yz12g2vpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Fri, 23 Oct 2026 05:11:25 GMT"
+    },
+    {
+      "title": "The Trip's Rob Brydon originally against playing fictional version of himself",
+      "description": "Rob Brydon and Steve Coogan initially thought playing fictionalised versions of themselves was \"passé\".",
+      "url": "https://www.bbc.co.uk/news/articles/c5n49ll9l90wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Tue, 20 Oct 2026 17:01:53 GMT"
+    },
+    {
+      "title": "Clayface star says uncomfortable prosthetics helped his performance",
+      "description": "Tom Rhys Harries says he spent half his time on set with the make-up team.",
+      "url": "https://www.bbc.co.uk/news/articles/cv1j359360rdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Sat, 17 Oct 2026 14:12:51 GMT"
+    },
+    {
+      "title": "Moment giant fin whale's huge mouth engulfs thousands of gallons of water",
+      "description": "Videographer Rhys Morgan captured footage of the worlds second largest whale lunge feeding on his drone.",
+      "url": "https://www.bbc.co.uk/news/articles/cjr4yeygwdxvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Tue, 20 Oct 2026 12:03:28 GMT"
+    },
+    {
+      "title": "Off Campus star collaboration 'gave me chills', says Babydoll singer",
+      "description": "Jamie Miller hopes he's \"doing Wales proud\" as his viral hit narrowly misses out on UK number one.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yndllj8d8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Sat, 17 Oct 2026 17:40:15 GMT"
+    },
+    {
+      "title": "Wales has an education crisis. Can it be fixed?",
+      "description": "Wales scores poorly on international test results but it is not clear a new curriculum will help.",
+      "url": "https://www.bbc.co.uk/news/articles/cw240qv4ygzmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Thu, 15 Oct 2026 00:01:46 GMT"
+    },
+    {
+      "title": "My contraceptive coil saved my life after it revealed I had cancer",
+      "description": "Caroline Bailey was diagnosed after suffering with \"a stabbing pain in the middle of my abdomen\".",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8nkqlvv9qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Thu, 15 Oct 2026 05:05:59 GMT"
+    },
+    {
+      "title": "Our baby died on Christmas Eve and we're still waiting for answers",
+      "description": "Gwilym was a very sleepy baby, who was very difficult to feed, his parents said.",
+      "url": "https://www.bbc.co.uk/news/articles/cwdd8972n1zeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Wed, 14 Oct 2026 05:14:15 GMT"
+    },
+    {
+      "title": "Wales call up in-form Page after Dyer injury blow",
+      "description": "Wales release Rio Dyer from their Nations Championship squad after hamstring injury, with Scarlets wing Macs Page added for November's games.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckd6dzznw81jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Tue, 27 Oct 2026 13:22:21 GMT"
+    },
+    {
+      "title": "FAW boss renews call for Infantino to step down",
+      "description": "Chief executive Noel Mooney says the Football Association of Wales retains the view that Fifa president Gianni Infantino should step down.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw054vdz9g7mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Tue, 27 Oct 2026 15:20:51 GMT"
+    },
+    {
+      "title": "Bell ruled out of Wales' second WXV Japan Test",
+      "description": "The 21-year-old centre is currently awaiting the results of a scan after suffering a serious-looking knee injury.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c63elww9q7vxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Tue, 27 Oct 2026 11:59:34 GMT"
+    },
+    {
+      "title": "Where are Wales internationals really made?",
+      "description": "Where a player is born in only one part of the story - BBC Sport traces the playing journey of Wales' 100 most recent internationals.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmp3gy0n44k4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Tue, 27 Oct 2026 04:34:20 GMT"
+    },
+    {
+      "title": "FAW sets ambitious 10-year plan but seeks more money",
+      "description": "The Football Association of Wales has called for greater funding for Welsh football after setting out ambitious targets for the next decade.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c933xjdzv3j8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Mon, 26 Oct 2026 16:58:55 GMT"
+    },
+    {
+      "title": "The students rubbing shoulders with Europe's elite",
+      "description": "Cardiff Met under-19s are the first Welsh club to reach round two of the Uefa Youth League Domestic Champions Path.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm9dz6l7p3qlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Tue, 27 Oct 2026 04:32:16 GMT"
+    },
+    {
+      "title": "Lewis conquers self-doubt to hunt more Wales caps",
+      "description": "Dragons prop Dillon Lewis is hoping for more Wales caps in the Nations Championship after a successful return from the international wilderness.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c65ynjkp530xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Mon, 26 Oct 2026 17:21:05 GMT"
+    },
+    {
+      "title": "Pam fod mwy o garcharorion yng Nghymru na gweddill Gorllewin Ewrop?",
+      "description": "Mwy o garcharorion yng Nghymru na Gorllewin Ewrop a mwy na thraean o farwolaethau ymhlith cyn-garcharorion yn gysylltiedig â chyffuriau.",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cyvzjdv63rno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Tue, 27 Oct 2026 08:35:29 GMT"
+    },
+    {
+      "title": "Methiannau'r heddlu'n golygu 'risg sylweddol i fywyd' yn ôl crwner",
+      "description": "Mae crwner wedi rhybuddio y gallai mwy o bobl farw ar fynyddoedd oni bai bod trefniadau galwadau 999 yn gwella.",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c3pwg0e1rx48o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Tue, 27 Oct 2026 18:17:42 GMT"
+    },
+    {
+      "title": "Her 100 Cymru: 'Mae'r tatŵ yn fy atgoffa 'mod i wedi bod drwy artaith'",
+      "description": "Mae gŵr a gwraig o Ros-y-gwaliau ger Y Bala wedi cael \"stamp parhaol\" i ddathlu cerdded 100 copa uchaf Cymru sef tatŵ bob un ar eu coesau.",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cmgr8zjqywqjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Tue, 27 Oct 2026 06:56:50 GMT"
+    },
+    {
+      "title": "'Do'n i ddim wedi bwriadu ei ladd' - achos llys",
+      "description": "Mae dyn 19 oed sydd wedi ei gyhuddo o lofruddio bachgen 17 mewn fflat yn Abertridwr wedi dweud nad oedd yn \"bwriadu ei ladd\".",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c64g1j89je95o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Tue, 27 Oct 2026 18:35:12 GMT"
+    }
+  ]
 }

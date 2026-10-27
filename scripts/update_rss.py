@@ -138,11 +138,21 @@ def collect(sources, parser):
 
     for source in sources:
         url = source.get("url", "")
+     
         try:
-            for item in download(url):
+            items = download(url)
+            accepted = 0
+
+            for item in items:
                 result = parser(item, source)
                 if result:
                     results.append(result)
+                    accepted += 1
+
+            print(
+                f"{source.get('name', 'RSS source')}: "
+                f"{len(items)} items received, "
+                f"{accepted} items accepted"
         except Exception as exc:
             failures.append(f"{source.get('name', 'RSS source')}: {exc}")
 

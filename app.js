@@ -16,7 +16,7 @@ async function loadEvents(){
  try{
   const response=await fetch('./events-feed.json',{cache:'no-store'});
   if(!response.ok)throw Error('Feed unavailable');
-  onst feed=await response.json();
+  const feed=await response.json();
 
   // Add events from verified public RSS calendars.
   try{

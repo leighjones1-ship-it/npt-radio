@@ -3,7 +3,7 @@
     {
       "name": "BBC News Wales",
       "url": "https://feeds.bbci.co.uk/news/wales/rss.xml",
-      "local_only": true
+      "local_only": false
     }
   ],
   "event_feeds": []

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30 06:23 UTC",
+  "updated_at": "2026-10-30 13:29 UTC",
   "events": [
     {
       "title": "Heart attack patient, 83, had to drive four hours for hospital appointment",
@@ -9,6 +9,20 @@
       "published": "Fri, 30 Oct 2026 06:08:38 GMT"
     },
     {
+      "title": "First minister says Budget not serious about Wales ahead of meeting with PM",
+      "description": "The Welsh government had criticised Wednesday's Budget claiming it leaves Wales facing real-terms cuts.",
+      "url": "https://www.bbc.co.uk/news/articles/cmg4706xkp35o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Fri, 30 Oct 2026 11:28:03 GMT"
+    },
+    {
+      "title": "Gaffe sees 'keep clear' lines painted on road outside school that shut 10 years ago",
+      "description": "The council admits the markings are \"no longer appropriate\" and will be removing them.",
+      "url": "https://www.bbc.co.uk/news/articles/cw7vpjjylrq5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Fri, 30 Oct 2026 10:12:10 GMT"
+    },
+    {
       "title": "'I run a spotless kitchen', says Michelin-star restaurant chef in wake of food hygiene debacle",
       "description": "Chef Gareth Ward defends how he operates in documentary after Ynyshir got a one-star hygiene rating.",
       "url": "https://www.bbc.co.uk/news/articles/cqp8g19r66y4o?at_medium=RSS&at_campaign=rss",
@@ -16,18 +30,11 @@
       "published": "Fri, 30 Oct 2026 06:08:16 GMT"
     },
     {
-      "title": "Chancellor's £30m pledge for train station is insult to the people of Wales, minister says",
-      "description": "Wales' transport minister says the cash is a \"tiny fraction\" of what is needed for the country's rail.",
-      "url": "https://www.bbc.co.uk/news/articles/c69wzq0d1w00o?at_medium=RSS&at_campaign=rss",
+      "title": "Sir Tom Jones 'truly sorry' as he cancels shows due to illness",
+      "description": "Sir Tom has pushed back three concerts in the US on doctor's advice, due to \"a bad case of the flu\".",
+      "url": "https://www.bbc.co.uk/news/articles/c699zj38k9ero?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Thu, 29 Oct 2026 13:10:20 GMT"
-    },
-    {
-      "title": "Ex-Top Gear host Richard Hammond's 'brave' new Welsh life wild swimming and running",
-      "description": "The former Top Gear star bought a 19th Century Georgian mansion near Abergavenny in November 2025.",
-      "url": "https://www.bbc.co.uk/news/articles/c39wznnxyy27o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Thu, 29 Oct 2026 18:29:49 GMT"
+      "published": "Fri, 30 Oct 2026 10:33:16 GMT"
     },
     {
       "title": "Broken hospital tap wastes a million litres of water",
@@ -37,11 +44,25 @@
       "published": "Thu, 29 Oct 2026 19:48:51 GMT"
     },
     {
+      "title": "Ex-Top Gear host Richard Hammond's 'brave' new Welsh life wild swimming and running",
+      "description": "The former Top Gear star bought a 19th Century Georgian mansion near Abergavenny in November 2025.",
+      "url": "https://www.bbc.co.uk/news/articles/c39wznnxyy27o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Thu, 29 Oct 2026 18:29:49 GMT"
+    },
+    {
       "title": "Watch the moment bridge hit at least 45 times is driven into again",
       "description": "Despite sensors and warnings, Trafle Mill bridge in Gowerton is often crashed into.",
       "url": "https://www.bbc.co.uk/news/articles/c6y0e189e9xgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
       "published": "Thu, 29 Oct 2026 11:01:21 GMT"
+    },
+    {
+      "title": "Chancellor's £30m pledge for train station is insult to the people of Wales, minister says",
+      "description": "Wales' transport minister says the cash is a \"tiny fraction\" of what is needed for the country's rail.",
+      "url": "https://www.bbc.co.uk/news/articles/c69wzq0d1w00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Thu, 29 Oct 2026 13:10:20 GMT"
     },
     {
       "title": "'I died twice', says man saved by off-duty police sergeant",
@@ -58,27 +79,6 @@
       "published": "Thu, 29 Oct 2026 23:00:48 GMT"
     },
     {
-      "title": "Mum of critically ill baby denied hospital food as she wasn't breastfeeding",
-      "description": "Sophie Price had given birth in the same hospital five days earlier but was denied a hot meal.",
-      "url": "https://www.bbc.co.uk/news/articles/cqzrdkn4v36po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Thu, 29 Oct 2026 06:12:07 GMT"
-    },
-    {
-      "title": "'Super offensive' - we love how we look but AI tried to 'fix' our visible differences",
-      "description": "An AI tool edited a photo of Rhiannon Morgan in a work newsletter and she was shocked by the results.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx28e44xxx7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Thu, 29 Oct 2026 06:13:33 GMT"
-    },
-    {
-      "title": "Talks over Plaid £10 child poverty payment positive, says Welsh secretary",
-      "description": "There are concerns the £10 a week proposed payment could be taxed or impact benefits.",
-      "url": "https://www.bbc.co.uk/news/articles/crje547e2x2wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Thu, 29 Oct 2026 07:44:29 GMT"
-    },
-    {
       "title": "Roman ruins found at school could add £1m to repair bill",
       "description": "Construction was paused after archaeologists found what is thought to be a road and parade ground.",
       "url": "https://www.bbc.co.uk/news/articles/cqlyej9znzn4o?at_medium=RSS&at_campaign=rss",
@@ -86,11 +86,11 @@
       "published": "Wed, 28 Oct 2026 19:27:14 GMT"
     },
     {
-      "title": "Babydoll singer says life will 'never be the same again' after UK number one",
-      "description": "The singer is finding genuine joy in life again after a difficult period led to him quitting music.",
-      "url": "https://www.bbc.co.uk/news/articles/c6qjn849ydlno?at_medium=RSS&at_campaign=rss",
+      "title": "'Super offensive' - we love how we look but AI tried to 'fix' our visible differences",
+      "description": "An AI tool edited a photo of Rhiannon Morgan in a work newsletter and she was shocked by the results.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx28e44xxx7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Wed, 28 Oct 2026 18:30:13 GMT"
+      "published": "Thu, 29 Oct 2026 06:13:33 GMT"
     },
     {
       "title": "What Wales makes of the Budget: 'It helps, but it's not enough'",
@@ -121,11 +121,25 @@
       "published": "Sat, 24 Oct 2026 15:59:18 GMT"
     },
     {
+      "title": "Wales aim to cap 2026 revival with Japan double",
+      "description": "Wales have the opportunity to finish the international year on a high on Saturday as they seek to complete a WXV double over Japan.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw4g18veqr47o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Fri, 30 Oct 2026 10:16:51 GMT"
+    },
+    {
       "title": "Sub-plots intensify Blades and Wrexham's rivalry",
       "description": "Former team-mates Chris Wilder and Phil Parkinson lock horns again as Sheffield United face Wrexham in the Championship on Friday night.",
       "url": "https://www.bbc.co.uk/sport/football/articles/cky931w9p0x0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
       "published": "Fri, 30 Oct 2026 04:12:07 GMT"
+    },
+    {
+      "title": "England thrash Wales to begin World Cup defence",
+      "description": "Rob Hawkins says England \"were not playing to our standards\" despite beginning their Wheelchair World Cup title defence with a commanding 98-18 win over Wales.",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c6ly0pnr19jzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Fri, 30 Oct 2026 12:08:02 GMT"
     },
     {
       "title": "Davies backs Page to make Wales debut soon",
@@ -135,6 +149,20 @@
       "published": "Fri, 30 Oct 2026 04:11:51 GMT"
     },
     {
+      "title": "Two Wales changes to face Australia at World Cup",
+      "description": "After back-to-back heavy defeats to England and Samoa, Wales end their debut campaign against champions Australia.",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cq4g142dr2xko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Fri, 30 Oct 2026 11:23:12 GMT"
+    },
+    {
+      "title": "Forest Green launch legal action over Savage approach",
+      "description": "Forest Green chairman Dale Vince announces the club is taking legal action against Peterborough United.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq4g148z2xp2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Fri, 30 Oct 2026 12:18:28 GMT"
+    },
+    {
       "title": "Wales ready to defend World Deaf Rugby titles",
       "description": "Wales men and women are heading to Japan to defend their titles at the Deaf Rugby Sevens World Cup and aiming to boost the profile of the sport.",
       "url": "https://www.bbc.co.uk/sport/articles/cmvg7wep4px9o?at_medium=RSS&at_campaign=rss",
@@ -142,60 +170,32 @@
       "published": "Fri, 30 Oct 2026 04:33:58 GMT"
     },
     {
-      "title": "Wales wing Adams released for Cardiff at Ospreys",
-      "description": "Wales wing Josh Adams is set for game time with Cardiff at Ospreys before the Nations Championship.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6ly077v3jx8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Thu, 29 Oct 2026 14:00:32 GMT"
-    },
-    {
-      "title": "Matos seeks Swansea response after hardest day",
-      "description": "Vitor Matos says Swansea City will aim to \"go back to ourselves\" against Blackburn Rovers as they look to respond after a humbling defeat at Queens Park Rangers.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3vgxl871vlko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Thu, 29 Oct 2026 16:39:26 GMT"
-    },
-    {
-      "title": "Wales scrum-half Hardy faces World Cup fitness race",
-      "description": "Wales scrum-half Kieran Hardy faces a race to be fit for next year's World Cup in Australia.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c65ynw5184pjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Thu, 29 Oct 2026 16:22:40 GMT"
-    },
-    {
-      "title": "Wrexham urged to board Championship rollercoaster",
-      "description": "Joe Worrall says Wrexham have the required \"golden triangle\" when it comes to their quest to gain promotion to the Premier League.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6jrw9g43n2do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Thu, 29 Oct 2026 12:17:18 GMT"
-    },
-    {
-      "title": "Cludiant ysbyty - 'ddim yn deg' i gleifion yn y canolbarth",
-      "description": "Galw am well cludiant ysbyty yn y canolbarth wedi i un claf, 83, orfod gyrru am bedair awr i gael profion ysbyty.",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cxg5jng881reo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Fri, 30 Oct 2026 06:01:04 GMT"
-    },
-    {
-      "title": "Burnham i 'wneud cynnig' i Lywodraeth Cymru wrth gwrdd ag ap Iorwerth",
-      "description": "Bydd Rhun ap Iorwerth a Phrif Weinidog yr Alban yn cyfarfod ag Andy Burnham yng Nglasgow ddydd Gwener.",
+      "title": "Burnham am weithio 'ar y cyd' â Llywodraeth Cymru ar fodel o 'ddatganoli dyfnach'",
+      "description": "Prif Weinidog y DU wedi dweud wrth uwchgynhadledd yn Glasgow ei fod eisiau gweithio gyda llywodraethau Cymru a'r Alban i ddatganoli mwy o rym i gymunedau.",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c60qk9j70ld9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Fri, 30 Oct 2026 05:59:48 GMT"
+      "published": "Fri, 30 Oct 2026 13:00:34 GMT"
     },
     {
-      "title": "'Amser am atebion' i'r 'argyfwng' o brinder athrawon cyfrwng Cymraeg y dyfodol",
-      "description": "Mae pryder nad oes digon o bobl yn hyfforddi i addysgu drwy gyfrwng y Gymraeg, gyda rhai'n rhybuddio bod angen gweithredu ar frys.",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckj0ldr38m4go?at_medium=RSS&at_campaign=rss",
+      "title": "Dyfodol ansicr i Glwb Rygbi Llanybydder wedi 52 mlynedd o fodolaeth",
+      "description": "Mae 'na bryder am ddyfodol Clwb Rygbi Llanybydder yn sgil diffyg chwaraewyr, tra bod 'na alw hefyd am ragor o gefnogaeth gan Undeb Rygbi Cymru.",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckvg60l39zzwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Thu, 29 Oct 2026 06:02:51 GMT"
+      "published": "Fri, 30 Oct 2026 11:58:42 GMT"
     },
     {
-      "title": "Teyrnged i dad 'unigryw ac annwyl' fu farw wedi gwrthdrawiad",
-      "description": "Mae teulu \"tad annwyl ac unigolyn hyfryd\" a fu farw yn dilyn gwrthdrawiad wedi rhoi teyrnged iddo.",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckyvr1z189e0o?at_medium=RSS&at_campaign=rss",
+      "title": "Beiciwr modur wedi marw ar ôl cwympo i'r môr ger y Gogarth",
+      "description": "Cafodd y gwasanaethau brys eu galw i adroddiadau o wrthdrawiad beic modur yn hwyr nos Iau.",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cme3xpj22zxqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Thu, 29 Oct 2026 16:33:23 GMT"
+      "published": "Fri, 30 Oct 2026 13:21:28 GMT"
+    },
+    {
+      "title": "Cefin Roberts: 'Mae yna rwbath amdan Gadeirlan Bangor sy'n arbennig iawn i mi'",
+      "description": "Cefin Roberts sy'n trafod y sioe Dinas Noddfa sy'n dod â 1,500 o flynyddoedd o hanes Bangor yn fyw.",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/crlyk90qd138o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Fri, 30 Oct 2026 07:05:50 GMT"
     }
   ]
 }

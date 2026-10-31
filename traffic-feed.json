@@ -1,0 +1,41 @@
+{
+  "updated_at": "2026-10-31T21:53:34.037972+00:00",
+  "source": "Traffic Wales",
+  "items": [
+    {
+      "title": "M4 : Westbound : J42 Earlswood : Roadworks : Exit slip road closed : Diversions in place : 03/11/26-07/11/26 2000-0600 :",
+      "description": "Description: M4 : Westbound : J42 Earlswood : Roadworks : Exit slip road closed : Diversions in place : 03/11/26-07/11/26 2000-0600 :, Start time: 03/11/2026 20:00 , End Date: 07/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 30/10/2026 13:53",
+      "url": "https://traffic.wales/road-traffic-alerts/595478"
+    },
+    {
+      "title": "M4 : Eastbound : J41 Pentyla/Baglan to J38 Margam : Roadworks : Road closed : Diversions in place : 04/11/26-06/11/26 2000-0600 :",
+      "description": "Description: M4 : Eastbound : J41 Pentyla/Baglan to J38 Margam : Roadworks : Road closed : Diversions in place : 04/11/26-06/11/26 2000-0600 :, Start time: 04/11/2026 20:00 , End Date: 06/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 30/10/2026 13:52",
+      "url": "https://traffic.wales/road-traffic-alerts/595477"
+    },
+    {
+      "title": "M4 : Eastbound : J41 Pentyla/Baglan : Roadworks : Exit slip road closed : Diversions in place : 02/11/26-03/11/26 2000-0600 :",
+      "description": "Description: M4 : Eastbound : J41 Pentyla/Baglan : Roadworks : Exit slip road closed : Diversions in place : 02/11/26-03/11/26 2000-0600 :, Start time: 02/11/2026 20:00 , End Date: 03/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 30/10/2026 13:51",
+      "url": "https://traffic.wales/road-traffic-alerts/595476"
+    },
+    {
+      "title": "M4 : Westbound : J38 Margam to J41 Pentyla/Baglan : Roadworks : Road closed : Diversions in place : 02/11/26-04/11/26 2000-0600 :",
+      "description": "Description: M4 : Westbound : J38 Margam to J41 Pentyla/Baglan : Roadworks : Road closed : Diversions in place : 02/11/26-04/11/26 2000-0600 :, Start time: 02/11/2026 20:00 , End Date: 04/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 30/10/2026 13:49",
+      "url": "https://traffic.wales/road-traffic-alerts/595475"
+    },
+    {
+      "title": "A465 : Northbound : Rhigos : Roadworks : Road closed : Diversions in place : 03/11/26 2000-2330 :",
+      "description": "Description: A465 : Northbound : Rhigos : Roadworks : Road closed : Diversions in place : 03/11/26 2000-2330 :, Start time: 03/11/2026 20:00 , End Date: 03/11/2026 23:30, Severity: Road closure, Source: Welsh Government, Last updated: 30/10/2026 13:43",
+      "url": "https://traffic.wales/road-traffic-alerts/595471"
+    },
+    {
+      "title": "A483 : Both directions : Newtown to Welshpool : 19/10/26-18/11/26 2000-0600 : Improvement work : Closed : Diversions in place :",
+      "description": "Description: A483 : Both directions : Newtown to Welshpool : 19/10/26-18/11/26 2000-0600 : Improvement work : Closed : Diversions in place :, Start time: 19/10/2026 20:00 , End Date: 18/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 19/10/2026 20:00",
+      "url": "https://traffic.wales/road-traffic-alerts/595030"
+    },
+    {
+      "title": "A483 : Both directions : Abermule : 19/10/26-18/11/26 2000-0600 : Carriageway maintenance : Closed : Diversions in place :",
+      "description": "Description: A483 : Both directions : Abermule : 19/10/26-18/11/26 2000-0600 : Carriageway maintenance : Closed : Diversions in place :, Start time: 19/10/2026 20:00 , End Date: 18/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 19/10/2026 20:00",
+      "url": "https://traffic.wales/road-traffic-alerts/594998"
+    }
+  ]
+}

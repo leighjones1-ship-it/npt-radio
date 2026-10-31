@@ -1,4 +1,3 @@
-const defaults={stream:'
 const defaults={stream:'https://stream.radiostudio24.com/listen/rs24_87/radio.mp3',
 ,email:'',news:[{title:'Local news coming soon',detail:'NPT Radio will publish verified community stories here.'}],roads:[{title:'Check current road conditions',detail:'Use the Traffic Wales link for official live traffic information.'}],council:[{title:'Neath Port Talbot Council',detail:'Follow the official council website for verified services, consultations and announcements.'}],events:[{title:'Community events coming soon',detail:'Dates and details will appear once confirmed by organisers.'}],schedule:[{title:'NPT Radio programme schedule',detail:'Presenter times will be announced ahead of launch.'}]};
 let data;try{data={...defaults,...JSON.parse(localStorage.getItem('npt-content')||'{}')}}catch{data={...defaults}}

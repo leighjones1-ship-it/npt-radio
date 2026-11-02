@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-11-02T02:09:15.604110+00:00",
+  "updated_at": "2026-11-02T09:31:33.785773+00:00",
   "source": "Traffic Wales",
   "items": [
+    {
+      "title": "A4232 : Now clear : Southbound : M4 J33 Capel Llanilltern to A48 Interchange",
+      "description": "Description: A4232 : Now clear : Southbound : M4 J33 Capel Llanilltern to A48 Interchange, Start time: 02/11/2026 9:15 , Expected end time: 02/11/2026 8:46, Severity: Moderate, Source: Welsh Government, Last updated: 02/11/2026 9:15",
+      "url": "https://traffic.wales/road-traffic-alerts/595524"
+    },
+    {
+      "title": "A4232 : Now clear : Northbound : A48 Interchange to M4 J33 Capel Llanilltern",
+      "description": "Description: A4232 : Now clear : Northbound : A48 Interchange to M4 J33 Capel Llanilltern, Start time: 02/11/2026 9:15 , Expected end time: 02/11/2026 9:01, Severity: Moderate, Source: Welsh Government, Last updated: 02/11/2026 9:15",
+      "url": "https://traffic.wales/road-traffic-alerts/595525"
+    },
+    {
+      "title": "A465 : Westbound : Neath to Llandarcy : Congestion : Delays possible :",
+      "description": "Description: A465 : Westbound : Neath to Llandarcy : Congestion : Delays possible :, Start time: 02/11/2026 7:26 , Expected end time: 02/11/2026 11:25, Severity: Moderate, Source: Welsh Government, Last updated: 02/11/2026 7:26",
+      "url": "https://traffic.wales/road-traffic-alerts/595508"
+    },
     {
       "title": "M4 : Westbound : J42 Earlswood : Roadworks : Exit slip road closed : Diversions in place : 03/11/26-07/11/26 2000-0600 :",
       "description": "Description: M4 : Westbound : J42 Earlswood : Roadworks : Exit slip road closed : Diversions in place : 03/11/26-07/11/26 2000-0600 :, Start time: 03/11/2026 20:00 , End Date: 07/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 30/10/2026 13:53",

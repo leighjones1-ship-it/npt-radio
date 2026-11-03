@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-11-03T09:33:56.409964+00:00",
+  "updated_at": "2026-11-03T17:21:27.361272+00:00",
   "source": "Traffic Wales",
   "items": [
+    {
+      "title": "A4232 : Northbound : A48 Interchange to M4 J33 Capel Llanilltern : Congestion : Delays possible :",
+      "description": "Description: A4232 : Northbound : A48 Interchange to M4 J33 Capel Llanilltern : Congestion : Delays possible :, Start time: 03/11/2026 15:53 , Expected end time: 03/11/2026 17:53, Severity: Moderate, Source: Welsh Government, Last updated: 03/11/2026 15:53",
+      "url": "https://traffic.wales/road-traffic-alerts/595557"
+    },
     {
       "title": "M4 : Westbound : J42 Earlswood : Roadworks : Exit slip road closed : Diversions in place : 03/11/26-07/11/26 2000-0600 :",
       "description": "Description: M4 : Westbound : J42 Earlswood : Roadworks : Exit slip road closed : Diversions in place : 03/11/26-07/11/26 2000-0600 :, Start time: 03/11/2026 20:00 , End Date: 07/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 30/10/2026 13:53",

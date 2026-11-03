@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-11-02T19:48:02.045657+00:00",
+  "updated_at": "2026-11-03T02:02:25.556068+00:00",
   "source": "Traffic Wales",
   "items": [
-    {
-      "title": "A465 : Westbound : Neath to Llandarcy : Congestion : Delays possible :",
-      "description": "Description: A465 : Westbound : Neath to Llandarcy : Congestion : Delays possible :, Start time: 02/11/2026 17:01 , Expected end time: 02/11/2026 21:01, Severity: Moderate, Source: Welsh Government, Last updated: 02/11/2026 17:01",
-      "url": "https://traffic.wales/road-traffic-alerts/595539"
-    },
     {
       "title": "M4 : Westbound : J42 Earlswood : Roadworks : Exit slip road closed : Diversions in place : 03/11/26-07/11/26 2000-0600 :",
       "description": "Description: M4 : Westbound : J42 Earlswood : Roadworks : Exit slip road closed : Diversions in place : 03/11/26-07/11/26 2000-0600 :, Start time: 03/11/2026 20:00 , End Date: 07/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 30/10/2026 13:53",
@@ -19,12 +14,12 @@
     },
     {
       "title": "M4 : Eastbound : J41 Pentyla/Baglan : Roadworks : Exit slip road closed : Diversions in place : 02/11/26-03/11/26 2000-0600 :",
-      "description": "Description: M4 : Eastbound : J41 Pentyla/Baglan : Roadworks : Exit slip road closed : Diversions in place : 02/11/26-03/11/26 2000-0600 :, Start time: 02/11/2026 20:00 , End Date: 03/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 30/10/2026 13:51",
+      "description": "Description: M4 : Eastbound : J41 Pentyla/Baglan : Roadworks : Exit slip road closed : Diversions in place : 02/11/26-03/11/26 2000-0600 :, Start time: 02/11/2026 20:00 , End Date: 03/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 02/11/2026 20:00",
       "url": "https://traffic.wales/road-traffic-alerts/595476"
     },
     {
       "title": "M4 : Westbound : J38 Margam to J41 Pentyla/Baglan : Roadworks : Road closed : Diversions in place : 02/11/26-04/11/26 2000-0600 :",
-      "description": "Description: M4 : Westbound : J38 Margam to J41 Pentyla/Baglan : Roadworks : Road closed : Diversions in place : 02/11/26-04/11/26 2000-0600 :, Start time: 02/11/2026 20:00 , End Date: 04/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 30/10/2026 13:49",
+      "description": "Description: M4 : Westbound : J38 Margam to J41 Pentyla/Baglan : Roadworks : Road closed : Diversions in place : 02/11/26-04/11/26 2000-0600 :, Start time: 02/11/2026 20:00 , End Date: 04/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 02/11/2026 20:00",
       "url": "https://traffic.wales/road-traffic-alerts/595475"
     },
     {

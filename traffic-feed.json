@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T22:28:09.938254+00:00",
+  "updated_at": "2026-11-04T02:38:50.513265+00:00",
   "source": "Traffic Wales",
   "items": [
     {
@@ -16,11 +16,6 @@
       "title": "M4 : Westbound : J38 Margam to J41 Pentyla/Baglan : Roadworks : Road closed : Diversions in place : 02/11/26-04/11/26 2000-0600 :",
       "description": "Description: M4 : Westbound : J38 Margam to J41 Pentyla/Baglan : Roadworks : Road closed : Diversions in place : 02/11/26-04/11/26 2000-0600 :, Start time: 02/11/2026 20:00 , End Date: 04/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 02/11/2026 20:00",
       "url": "https://traffic.wales/road-traffic-alerts/595475"
-    },
-    {
-      "title": "A465 : Northbound : Rhigos : Roadworks : Road closed : Diversions in place : 03/11/26 2000-2330 :",
-      "description": "Description: A465 : Northbound : Rhigos : Roadworks : Road closed : Diversions in place : 03/11/26 2000-2330 :, Start time: 03/11/2026 20:00 , End Date: 03/11/2026 23:30, Severity: Road closure, Source: Welsh Government, Last updated: 03/11/2026 20:00",
-      "url": "https://traffic.wales/road-traffic-alerts/595471"
     },
     {
       "title": "A483 : Both directions : Newtown to Welshpool : 19/10/26-18/11/26 2000-0600 : Improvement work : Closed : Diversions in place :",

@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-04T02:38:50.513265+00:00",
+  "updated_at": "2026-11-04T17:49:28.287938+00:00",
   "source": "Traffic Wales",
   "items": [
     {
-      "title": "M4 : Westbound : J42 Earlswood : Roadworks : Exit slip road closed : Diversions in place : 03/11/26-07/11/26 2000-0600 :",
-      "description": "Description: M4 : Westbound : J42 Earlswood : Roadworks : Exit slip road closed : Diversions in place : 03/11/26-07/11/26 2000-0600 :, Start time: 03/11/2026 20:00 , End Date: 07/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 03/11/2026 20:00",
-      "url": "https://traffic.wales/road-traffic-alerts/595478"
+      "title": "M4 : Westbound : J38 Margam to J42 Earlswood : Congestion : Congestion : Delays possible :",
+      "description": "Description: M4 : Westbound : J38 Margam to J42 Earlswood : Congestion : Congestion : Delays possible :, Start time: 04/11/2026 16:53 , Expected end time: 04/11/2026 19:00, Severity: Moderate, Source: Welsh Government, Last updated: 04/11/2026 16:53",
+      "url": "https://traffic.wales/road-traffic-alerts/595585"
     },
     {
       "title": "M4 : Eastbound : J41 Pentyla/Baglan to J38 Margam : Roadworks : Road closed : Diversions in place : 04/11/26-06/11/26 2000-0600 :",
@@ -13,9 +13,9 @@
       "url": "https://traffic.wales/road-traffic-alerts/595477"
     },
     {
-      "title": "M4 : Westbound : J38 Margam to J41 Pentyla/Baglan : Roadworks : Road closed : Diversions in place : 02/11/26-04/11/26 2000-0600 :",
-      "description": "Description: M4 : Westbound : J38 Margam to J41 Pentyla/Baglan : Roadworks : Road closed : Diversions in place : 02/11/26-04/11/26 2000-0600 :, Start time: 02/11/2026 20:00 , End Date: 04/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 02/11/2026 20:00",
-      "url": "https://traffic.wales/road-traffic-alerts/595475"
+      "title": "M4 : Westbound : J42 Earlswood : Roadworks : Exit slip road closed : Diversions in place : 03/11/26-07/11/26 2000-0600 :",
+      "description": "Description: M4 : Westbound : J42 Earlswood : Roadworks : Exit slip road closed : Diversions in place : 03/11/26-07/11/26 2000-0600 :, Start time: 03/11/2026 20:00 , End Date: 07/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 03/11/2026 20:00",
+      "url": "https://traffic.wales/road-traffic-alerts/595478"
     },
     {
       "title": "A483 : Both directions : Newtown to Welshpool : 19/10/26-18/11/26 2000-0600 : Improvement work : Closed : Diversions in place :",

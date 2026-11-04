@@ -1,15 +1,10 @@
 {
-  "updated_at": "2026-11-04T17:49:28.287938+00:00",
+  "updated_at": "2026-11-04T23:19:28.380772+00:00",
   "source": "Traffic Wales",
   "items": [
     {
-      "title": "M4 : Westbound : J38 Margam to J42 Earlswood : Congestion : Congestion : Delays possible :",
-      "description": "Description: M4 : Westbound : J38 Margam to J42 Earlswood : Congestion : Congestion : Delays possible :, Start time: 04/11/2026 16:53 , Expected end time: 04/11/2026 19:00, Severity: Moderate, Source: Welsh Government, Last updated: 04/11/2026 16:53",
-      "url": "https://traffic.wales/road-traffic-alerts/595585"
-    },
-    {
       "title": "M4 : Eastbound : J41 Pentyla/Baglan to J38 Margam : Roadworks : Road closed : Diversions in place : 04/11/26-06/11/26 2000-0600 :",
-      "description": "Description: M4 : Eastbound : J41 Pentyla/Baglan to J38 Margam : Roadworks : Road closed : Diversions in place : 04/11/26-06/11/26 2000-0600 :, Start time: 04/11/2026 20:00 , End Date: 06/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 30/10/2026 13:52",
+      "description": "Description: M4 : Eastbound : J41 Pentyla/Baglan to J38 Margam : Roadworks : Road closed : Diversions in place : 04/11/26-06/11/26 2000-0600 :, Start time: 04/11/2026 20:00 , End Date: 06/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 04/11/2026 20:00",
       "url": "https://traffic.wales/road-traffic-alerts/595477"
     },
     {

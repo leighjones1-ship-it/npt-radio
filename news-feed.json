@@ -1,6 +1,48 @@
 {
-  "updated_at": "2026-11-05 07:19 UTC",
+  "updated_at": "2026-11-05 20:15 UTC",
   "events": [
+    {
+      "title": "Man in court over explosives found near Aberfan Memorial Garden days before Royal visit",
+      "description": "Stefan Dale is charged with making an explosive substance with intent to endanger life or injure property.",
+      "url": "https://www.bbc.co.uk/news/articles/c5n49k9g1z2vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Thu, 05 Nov 2026 12:56:03 GMT"
+    },
+    {
+      "title": "Moment paedophile who travelled 200 miles to assault child tries to flee arrest",
+      "description": "Samuel Hyde was messaging the victim for a week before travelling to meet her.",
+      "url": "https://www.bbc.co.uk/news/articles/cr78p0jqzlwvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Thu, 05 Nov 2026 17:01:17 GMT"
+    },
+    {
+      "title": "'You've had a wonderful life Tommy, but it's over' - Sir Tom feared he was dying",
+      "description": "The singer from Pontypridd told the audience just how serious his \"bad case of the flu\" was.",
+      "url": "https://www.bbc.co.uk/news/articles/c8qlnwng5pzwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Thu, 05 Nov 2026 13:56:50 GMT"
+    },
+    {
+      "title": "Drink-driver hit road sign and killed himself and friend after night out",
+      "description": "Two friends, Aled Bowen, 18, and Aled Coleman, 23, were killed in the crash in September 2025.",
+      "url": "https://www.bbc.co.uk/news/articles/ckm23qm4nm3zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Thu, 05 Nov 2026 15:26:47 GMT"
+    },
+    {
+      "title": "School failed to deal with racist bullying, father claims",
+      "description": "The school and council say the school is safe for every pupil.",
+      "url": "https://www.bbc.co.uk/news/articles/cvrly1g1e85ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Thu, 05 Nov 2026 18:58:20 GMT"
+    },
+    {
+      "title": "Bonnie Tyler's hometown pays tribute with new mural",
+      "description": "Artist Steve Jenkins painted the \"important\" piece at Skewen Memorial Park, in Neath Port Talbot.",
+      "url": "https://www.bbc.co.uk/news/articles/c63r5e42wdggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Thu, 05 Nov 2026 18:03:33 GMT"
+    },
     {
       "title": "£200m taxpayer-funded trains sit barely used for three years",
       "description": "The final piece in a £2bn rail project is late, with less than half of the trains tested.",
@@ -10,31 +52,38 @@
     },
     {
       "title": "Surreal moment Tarantino and Kylie Minogue came to my hometown to star in my new film",
-      "description": "A Hollywood giant and singing superstars caused a stir after arriving in a Welsh seaside town.",
+      "description": "The Pulp Fiction director and Spinning Around singer caused a stir in a Welsh seaside town.",
       "url": "https://www.bbc.co.uk/news/articles/cmn068j9z4w3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
       "published": "Thu, 05 Nov 2026 06:07:19 GMT"
     },
     {
-      "title": "Educating Cardiff teacher given suspended sentence after sexually assaulting teenager",
-      "description": "During a trial, Gareth Ritter, 44, changed his plea to guilty on the sexual assault charge.",
-      "url": "https://www.bbc.co.uk/news/articles/ckz7xz09rwldo?at_medium=RSS&at_campaign=rss",
+      "title": "Open more Welsh language nurseries or parents could choose English ones, group warns",
+      "description": "Mudiad Meithrin warns there are no plans in place to deliver on offering more free Welsh language childcare.",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3g003wnr5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Wed, 04 Nov 2026 16:24:16 GMT"
+      "published": "Thu, 05 Nov 2026 13:17:26 GMT"
     },
     {
-      "title": "Altar Stone mystery continues as theory overturned",
+      "title": "Neighbours say they will be 'hemmed in' over garden shed row",
+      "description": "Neighbours have complained after plans for a shed have been approved despite being built without permission.",
+      "url": "https://www.bbc.co.uk/news/articles/cqj9kdjpglddo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Thu, 05 Nov 2026 09:59:38 GMT"
+    },
+    {
+      "title": "Welsh aviation firm AerFin bought in £475m deal",
+      "description": "The company, which was majority owned by a private equity firm, said it was beginning a \"new chapter\".",
+      "url": "https://www.bbc.co.uk/news/articles/cq203vjxnln7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Thu, 05 Nov 2026 11:01:06 GMT"
+    },
+    {
+      "title": "Altar Stone mystery continues as Stonehenge theory overturned",
       "description": "It was thought the Stonehenge artefact was from north east Scotland but a new study disputes that.",
       "url": "https://www.bbc.co.uk/news/articles/c54g14v42ykgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
       "published": "Thu, 05 Nov 2026 06:37:54 GMT"
-    },
-    {
-      "title": "Code cracked for shipwreck padlock solving 400-year-old mystery",
-      "description": "The brass lock, found in the sand near Port Talbot, forms part of a 1583 shipwreck treasure hoard.",
-      "url": "https://www.bbc.co.uk/news/articles/c69qz9jzq4jro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Wed, 04 Nov 2026 06:12:52 GMT"
     },
     {
       "title": "Sheryl Crow reveals 'incredible' Welsh heritage",
@@ -42,48 +91,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cq4g1701nl2lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
       "published": "Wed, 04 Nov 2026 18:03:46 GMT"
-    },
-    {
-      "title": "Family pay tribute to 'gentle' woman as man charged with murder",
-      "description": "Eleanor O'Dell, 33, was found dead at a property on St Seiriol's Road, Llandudno, on Saturday.",
-      "url": "https://www.bbc.co.uk/news/articles/cwly456lgvndo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Wed, 04 Nov 2026 11:42:07 GMT"
-    },
-    {
-      "title": "TV show teacher assaulted teen and mum's cancer screening campaign",
-      "description": "A review of the front page stories from the daily and weekly newspapers in Wales.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrmy9xn77lno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Thu, 05 Nov 2026 06:42:02 GMT"
-    },
-    {
-      "title": "Plaid would not reverse Covid inquiry promise, Welsh minister told campaigner",
-      "description": "Campaigners say plans for a review instead of a full inquiry amount to a betrayal by ministers.",
-      "url": "https://www.bbc.co.uk/news/articles/cr78p0e76q8lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Wed, 04 Nov 2026 17:25:22 GMT"
-    },
-    {
-      "title": "Beauty salon first in Wales prosecuted over unlawful laser treatments",
-      "description": "The Bridgend firm was fined nearly £9,000 for providing laser hair removal and tattoo removal without being registered with the inspectorate in Wales.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn4enn5dv5jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Wed, 04 Nov 2026 14:34:25 GMT"
-    },
-    {
-      "title": "'It will live with me for the rest of my life' - Veterans pay respects at Field of Remembrance",
-      "description": "John Eskdale, one of the last surviving veterans of World War Two, wanted to honour his fallen comrades.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x29z07v2l4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Wed, 04 Nov 2026 19:09:38 GMT"
-    },
-    {
-      "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
-      "description": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
-      "url": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Wed, 04 Nov 2026 06:11:43 GMT"
     },
     {
       "title": "'I never enjoyed exercise at school as I was bullied' says DJ, ahead of 400-mile bike feat",
@@ -121,11 +128,39 @@
       "published": "Sat, 31 Oct 2026 07:06:12 GMT"
     },
     {
-      "title": "Black Doves actress says she loved playing 'a very Welsh assassin'",
-      "description": "Gabrielle Creevy says she auditioned for the role using her Welsh accent \"and they loved it\".",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2w1znl8q1o?at_medium=RSS&at_campaign=rss",
+      "title": "Players picked on form not club location - Tandy",
+      "description": "With a record number of players based outside of Wales in his 23-man squad, head coach Steve Tandy says how they are playing is all that matters.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/crjwe556538zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Mon, 02 Nov 2026 22:10:38 GMT"
+      "published": "Thu, 05 Nov 2026 13:31:52 GMT"
+    },
+    {
+      "title": "Wales opt for centre power pair against Japan",
+      "description": "Wales head coach Steve Tandy has selected Max Llewellyn alongside Eddie James in midfield to face Japan in the Nations Championship on Saturday.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c9146d7g0reyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Thu, 05 Nov 2026 09:02:56 GMT"
+    },
+    {
+      "title": "Ronaldo retires from Portugal duty before Wales rematch",
+      "description": "Portugal legend Cristiano Ronaldo says \"the day has come for me to hand back the number seven shirt\".",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Thu, 05 Nov 2026 12:28:01 GMT"
+    },
+    {
+      "title": "Triple injury boost for Swansea before Blues test",
+      "description": "Swansea City receive major fitness boost as influential centre-back Stephen Welsh is cleared of serious injury.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx29zzrl17no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Thu, 05 Nov 2026 16:00:44 GMT"
+    },
+    {
+      "title": "Jones looks to create Japan history in Cardiff",
+      "description": "Head coach Eddie Jones says he wants his side to create history on Saturday by becoming the first Japan side to beat Wales in Cardiff.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwvg0y2ekkplo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Thu, 05 Nov 2026 15:23:30 GMT"
     },
     {
       "title": "Parkinson's pride as Wrexham deliver against Boro",
@@ -135,32 +170,25 @@
       "published": "Wed, 04 Nov 2026 22:57:57 GMT"
     },
     {
-      "title": "Wilson returns as Wales call up uncapped Duncan",
-      "description": "Harry Wilson is back in Wales' squad for their Nations League matches against Norway and Portugal, while goalkeeper Joe Duncan earns his first call.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwly4ee53mgyo?at_medium=RSS&at_campaign=rss",
+      "title": "Newport to host men's professional tennis in 2027",
+      "description": "Newport Tennis Centre will host Wales' highest level men's tournament from 24-31 January 2027.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c9p8g06j81jlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Wed, 04 Nov 2026 10:30:19 GMT"
+      "published": "Thu, 05 Nov 2026 11:11:23 GMT"
     },
     {
-      "title": "Morgan aims to show new attacking threat for Wales",
-      "description": "Wales flanker Jac Morgan believes he has added to his attacking game by moving to Gloucester in the Prem.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm9dzwg7ze59o?at_medium=RSS&at_campaign=rss",
+      "title": "Cyn-enillydd Cân i Gymru'n pledio'n euog i dwyll bridio cŵn",
+      "description": "Sara Pritchard Davies yn pledio'n euog i ddau gyhuddiad o dwyll yn ymwneud â bridio cŵn yn anghyfreithlon.",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqd098dpyevpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Wed, 04 Nov 2026 16:20:53 GMT"
+      "published": "Thu, 05 Nov 2026 14:43:33 GMT"
     },
     {
-      "title": "Cardiff sign Welsh lock Green from Harlequins",
-      "description": "Cardiff bolster their second row with the signing of former Wales Under-20s forward.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwn8dmr88v0go?at_medium=RSS&at_campaign=rss",
+      "title": "'Dymchwelodd fy myd i gyd' - Mam pan glywodd am wrthdrawiad ble bu farw dau",
+      "description": "Roedd gyrrwr y car dan ddylanwad alcohol adeg y digwyddiad yn 2025, mae cwest wedi clywed.",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c6kgq8djy4v2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Wed, 04 Nov 2026 11:00:08 GMT"
-    },
-    {
-      "title": "Welsh injury adds to Swans' misery at Portsmouth",
-      "description": "Swansea City are waiting to discover the extent of Stephen Welsh's knee injury after the centre-back is helped off during their painful defeat at Portsmouth.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxj0l33pjgn6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Tue, 03 Nov 2026 23:20:32 GMT"
+      "published": "Thu, 05 Nov 2026 15:23:05 GMT"
     },
     {
       "title": "Ysgol yn Sir Conwy wedi 'methu â delio' hefo bwlio hiliol – tad",
@@ -170,25 +198,11 @@
       "published": "Wed, 04 Nov 2026 20:00:11 GMT"
     },
     {
-      "title": "'Dim targedau clir' i ehangu gofal plant am ddim yn Gymraeg - Mudiad Meithrin",
-      "description": "Mae Llywodraeth Cymru yn \"colli cyfle\" i gyflwyno mwy o blant i'r Gymraeg yn gynnar, yn ôl Prif Weithredwr Mudiad Meithrin.",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cq33xkr5jkmvo?at_medium=RSS&at_campaign=rss",
+      "title": "Y ddwy ffrind sydd eisiau 'creu rhywbeth i gymuned Capel Bangor'",
+      "description": "Wedi i'r gymuned golli siop y pentre a dwy dafarn, mae dwy ffrind yn gwireddu breuddwyd drwy agor caffi yno.",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cmn4engedvj8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Thu, 05 Nov 2026 06:03:00 GMT"
-    },
-    {
-      "title": "Y trenau newydd gwerth dros £200m sydd prin wedi eu defnyddio am dair blynedd",
-      "description": "Mae'r rhan fwyaf o drenau newydd i Gaerdydd a Chymoedd y De dal heb gludo teithwyr, tair blynedd ar ôl i'r cyntaf gyrraedd.",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqwyrzn3prj3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Thu, 05 Nov 2026 06:03:52 GMT"
-    },
-    {
-      "title": "Pum munud gyda'r chwedleuwr Fiona Collins",
-      "description": "Cyfle i ddod i adnabod y chwedleuwr proffesiynol, Fiona Collins ychydig yn well.",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cmqjnkqpx00wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Thu, 05 Nov 2026 07:09:52 GMT"
+      "published": "Thu, 05 Nov 2026 13:46:45 GMT"
     }
   ]
 }

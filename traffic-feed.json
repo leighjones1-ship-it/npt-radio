@@ -1,17 +1,7 @@
 {
-  "updated_at": "2026-11-06T14:49:21.747206+00:00",
+  "updated_at": "2026-11-06T20:43:04.006038+00:00",
   "source": "Traffic Wales",
   "items": [
-    {
-      "title": "M4 : Westbound : J39 Groes to J41 Pentyla/Baglan : Congestion : Delays possible :",
-      "description": "Description: M4 : Westbound : J39 Groes to J41 Pentyla/Baglan : Congestion : Delays possible :, Start time: 06/11/2026 14:40 , Expected end time: 06/11/2026 19:39, Severity: Moderate, Source: Welsh Government, Last updated: 06/11/2026 14:40",
-      "url": "https://traffic.wales/road-traffic-alerts/595647"
-    },
-    {
-      "title": "A4232 : Northbound : A48 Interchange to M4 J33 Capel Llanilltern : Congestion : Delays possible :",
-      "description": "Description: A4232 : Northbound : A48 Interchange to M4 J33 Capel Llanilltern : Congestion : Delays possible :, Start time: 06/11/2026 13:26 , Expected end time: 06/11/2026 19:26, Severity: Moderate, Source: Welsh Government, Last updated: 06/11/2026 13:26",
-      "url": "https://traffic.wales/road-traffic-alerts/595644"
-    },
     {
       "title": "M4 : Westbound : J42 Earlswood : Roadworks : Exit slip road closed : Diversions in place : 03/11/26-07/11/26 2000-0600 :",
       "description": "Description: M4 : Westbound : J42 Earlswood : Roadworks : Exit slip road closed : Diversions in place : 03/11/26-07/11/26 2000-0600 :, Start time: 03/11/2026 20:00 , End Date: 07/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 03/11/2026 20:00",

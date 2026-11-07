@@ -1,26 +1,33 @@
 {
-  "updated_at": "2026-11-07 06:32 UTC",
+  "updated_at": "2026-11-07 13:31 UTC",
   "events": [
     {
       "title": "'They shouted at demons inside me' - survivors want ban on gay conversion practices",
       "description": "Ian Smith, 56, said that for months afterwards he would wake up in the night screaming.",
       "url": "https://www.bbc.co.uk/news/articles/cre3xq7ed33do?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Fri, 06 Nov 2026 22:54:45 GMT"
+      "published": "Sat, 07 Nov 2026 07:08:01 GMT"
     },
     {
       "title": "Man, 41, and boy, 16, arrested after car damaged by gunshots",
       "description": "Police said a vehicle in Morriston, Swansea, sustained damage \"consistent with a firearms discharge\".",
       "url": "https://www.bbc.co.uk/news/articles/cw0k00rp2e35o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Fri, 06 Nov 2026 22:50:53 GMT"
+      "published": "Sat, 07 Nov 2026 13:22:32 GMT"
     },
     {
       "title": "As a baby I lived in a protective 'bubble' but after pioneering gene therapy I beat Covid twice",
       "description": "Rhys faced spending his life in isolation from the world but now works as stage crew at Butlin's.",
       "url": "https://www.bbc.co.uk/news/articles/crl79nldrlxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Fri, 06 Nov 2026 22:57:12 GMT"
+      "published": "Sat, 07 Nov 2026 07:08:50 GMT"
+    },
+    {
+      "title": "Roman settlement dating back 2,000 years found under new-build estate",
+      "description": "The discovery of lead moulds shows Romans were producing a \"wide range\" of brooches at the site.",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7ydgl44z7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Sat, 07 Nov 2026 11:06:52 GMT"
     },
     {
       "title": "Wales scraps controversial Uganda tree-planting scheme",
@@ -37,18 +44,18 @@
       "published": "Fri, 06 Nov 2026 12:17:23 GMT"
     },
     {
-      "title": "Under-16s could be banned from buying energy drinks in Wales",
-      "description": "Young people in Cardiff told BBC Wales they supported the proposed ban.",
-      "url": "https://www.bbc.co.uk/news/articles/cx4g114r0d2do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Fri, 06 Nov 2026 17:10:28 GMT"
-    },
-    {
       "title": "Two arrested on suspicion of child neglect after safety concerns at nursery",
       "description": "A 49-year-old man from Cardiff and a 29-year-old woman from the Caerphilly area have been bailed.",
       "url": "https://www.bbc.co.uk/news/articles/cmewee8keel4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
       "published": "Fri, 06 Nov 2026 18:40:12 GMT"
+    },
+    {
+      "title": "Under-16s could be banned from buying energy drinks in Wales",
+      "description": "Young people in Cardiff told BBC Wales they supported the proposed ban.",
+      "url": "https://www.bbc.co.uk/news/articles/cx4g114r0d2do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Fri, 06 Nov 2026 17:10:28 GMT"
     },
     {
       "title": "'It's tradition' - Hundreds gather for huge annual bonfire on housing estate",
@@ -77,13 +84,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6n044x08pw7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
       "published": "Fri, 06 Nov 2026 18:04:46 GMT"
-    },
-    {
-      "title": "'Leave us alone, just let us run' - the women harassed and followed by men at night",
-      "description": "Môn Girls Run founder Gwen Owen says women facing harassment out running should not be normalised.",
-      "url": "https://www.bbc.co.uk/news/articles/c8ly044wdx9eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Fri, 06 Nov 2026 10:44:36 GMT"
     },
     {
       "title": "Dolly Parton's scheme to send free books to children brought back",
@@ -170,46 +170,32 @@
       "published": "Fri, 06 Nov 2026 13:02:09 GMT"
     },
     {
-      "title": "Can results be sole measure of Wales' World Cup?",
-      "description": "The view from within is that Wales should not be judged solely by scorelines at the Women's Rugby League World Cup.",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cmje588l0ee2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Fri, 06 Nov 2026 20:15:11 GMT"
-    },
-    {
-      "title": "Parkinson seeks Wrexham repeat performance against Wolves",
-      "description": "Phil Parkinson has challenged his Wrexham players to show the same mentality against Wolves on Saturday as they did in their win over Middlesbrough.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6jrww00l12go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Fri, 06 Nov 2026 15:26:26 GMT"
-    },
-    {
-      "title": "Dyn o Wynedd yn cyfaddef bod â dogfennau terfysgol yn cynnwys llawlyfr IRA",
-      "description": "Dyn ifanc o Wynedd wedi cyfaddef cyhuddiadau terfysgaeth yn Llys y Goron Lerpwl ddydd Gwener.",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cm20vvg953lqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Fri, 06 Nov 2026 15:40:37 GMT"
-    },
-    {
-      "title": "Heddlu arfog yn ymateb i ddigwyddiad yn Abertawe",
-      "description": "Mae swyddogion heddlu arfog yn ymateb i ddigwyddiad yn ardal Treforys, Abertawe, gyda thrigolion yn cael eu hannog i osgoi'r ardal.",
+      "title": "Dyn 41 oed a bachgen 16 oed wedi'u harestio ar ôl i gar gael ei ddifrodi gan ergydion gwn",
+      "description": "Mae dau o bobl wedi cael eu harestio ar ôl i heddlu arfog ymateb i ddigwyddiad lle cafodd car ei daro gan ergydion gwn",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c6ly0079wjx4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Fri, 06 Nov 2026 21:04:51 GMT"
+      "published": "Sat, 07 Nov 2026 13:14:52 GMT"
     },
     {
-      "title": "Arestio dau ar amheuaeth o esgeuluso plant mewn meithrinfa",
-      "description": "Mae dyn a dynes wedi cael eu harestio ar amheuaeth o esgeuluso plant mewn meithrinfa yn y Coed-duon.",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ck79pprl823ro?at_medium=RSS&at_campaign=rss",
+      "title": "Cerdded 120 milltir y mis – yn 92 oed",
+      "description": "'Dal ati' ydi cyngor John Morgan Jôb, gafodd sioc yn ddiweddar ar ôl cael gwybod ei fod wedi cerdded pellter 60 marathon mewn blwyddyn.",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cmz65zz9vvnzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Fri, 06 Nov 2026 17:49:20 GMT"
+      "published": "Sat, 07 Nov 2026 07:19:26 GMT"
     },
     {
-      "title": "Camu nôl mewn amser i siop unigryw yng Nghaernarfon",
-      "description": "Cyfle i gael cipolwg ar hen siop 'unigryw' yn nhref Caernarfon.",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwx28z80mke5o?at_medium=RSS&at_campaign=rss",
+      "title": "'Byth yn meddwl bydden ni'n dau yn cael sylwebu ar gêm Aber!'",
+      "description": "Mae dau ddyn ifanc ag anghenion ychwanegol wedi cael cyfle i \"wireddu eu breuddwyd\" o sylwebu ar gemau pêl-droed yng Ngheredigion.",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cmz65z6qp9nyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Fri, 06 Nov 2026 15:53:41 GMT"
+      "published": "Sat, 07 Nov 2026 07:13:11 GMT"
+    },
+    {
+      "title": "Cwis: Cymru a Japan",
+      "description": "Beth wyddoch chi am y cysylltiadau rhwng Cymru a'n gwrthwynebwyr cyntaf yng Nghyfres yr Hydref?",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cmz65zq3y2xdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Sat, 07 Nov 2026 08:23:00 GMT"
     }
   ]
 }

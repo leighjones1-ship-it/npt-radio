@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-11-07T13:25:37.634217+00:00",
+  "updated_at": "2026-11-07T18:12:04.553308+00:00",
   "source": "Traffic Wales",
   "items": [
+    {
+      "title": "A4232 : Northbound : A48 Interchange to M4 J33 Capel Llanilltern : Congestion : Delays possible :",
+      "description": "Description: A4232 : Northbound : A48 Interchange to M4 J33 Capel Llanilltern : Congestion : Delays possible :, Start time: 07/11/2026 17:49 , Expected end time: 07/11/2026 19:48, Severity: Moderate, Source: Welsh Government, Last updated: 07/11/2026 17:49",
+      "url": "https://traffic.wales/road-traffic-alerts/595684"
+    },
+    {
+      "title": "M4 : Both directions : J41 Pentyla/Baglan to J39 Groes : Cyclic maintenance : Exit slip road closed : Entry slip road closed : Diversion : 11/11/26-13/11/26 2000-0000 :",
+      "description": "Description: M4 : Both directions : J41 Pentyla/Baglan to J39 Groes : Cyclic maintenance : Exit slip road closed : Entry slip road closed : Diversion : 11/11/26-13/11/26 2000-0000 :, Start time: 11/11/2026 20:00 , End Date: 13/11/2026 0:00, Severity: Road closure, Source: Welsh Government, Last updated: 07/11/2026 15:32",
+      "url": "https://traffic.wales/road-traffic-alerts/595679"
+    },
+    {
+      "title": "M4 : Westbound : J39 Groes : Clearance work : Entry slip road closed : Diversion : 09/11/26-14/11/26 2000-0600 :",
+      "description": "Description: M4 : Westbound : J39 Groes : Clearance work : Entry slip road closed : Diversion : 09/11/26-14/11/26 2000-0600 :, Start time: 09/11/2026 20:00 , End Date: 14/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 07/11/2026 15:30",
+      "url": "https://traffic.wales/road-traffic-alerts/595678"
+    },
     {
       "title": "A483 : Both directions : Newtown to Welshpool : 19/10/26-18/11/26 2000-0600 : Improvement work : Closed : Diversions in place :",
       "description": "Description: A483 : Both directions : Newtown to Welshpool : 19/10/26-18/11/26 2000-0600 : Improvement work : Closed : Diversions in place :, Start time: 19/10/2026 20:00 , End Date: 18/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 19/10/2026 20:00",

@@ -1,19 +1,26 @@
 {
-  "updated_at": "2026-11-08 06:38 UTC",
+  "updated_at": "2026-11-08 18:03 UTC",
   "events": [
+    {
+      "title": "Wales falls silent with Remembrance services across the country",
+      "description": "National Remembrance service takes place in Cardiff as local communities pay their own tributes.",
+      "url": "https://www.bbc.co.uk/news/articles/c5398merym47o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Sun, 08 Nov 2026 11:34:47 GMT"
+    },
     {
       "title": "Airbnb cleaning rule changes will 'absolutely' hit Wales harder, says host",
       "description": "Gavin Rowlands worries rule changes will put \"more stress\" on hosts who are already struggling.",
       "url": "https://www.bbc.co.uk/news/articles/c6y0e2jweqw8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Sat, 07 Nov 2026 21:52:08 GMT"
+      "published": "Sun, 08 Nov 2026 07:03:58 GMT"
     },
     {
       "title": "There's finally a treatment for my five-year-old's dementia - but it'll cost me £3m",
       "description": "The dementia treatment for children is available in the US, with funding for UK children unclear.",
       "url": "https://www.bbc.co.uk/news/articles/c8046kdw56e2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Sat, 07 Nov 2026 21:52:21 GMT"
+      "published": "Sun, 08 Nov 2026 07:04:36 GMT"
     },
     {
       "title": "'They shouted at demons inside me' - survivors want ban on gay conversion practices",
@@ -79,13 +86,6 @@
       "published": "Sat, 07 Nov 2026 19:47:03 GMT"
     },
     {
-      "title": "Two arrested on suspicion of child neglect after safety concerns at nursery",
-      "description": "A 49-year-old man from Cardiff and a 29-year-old woman from the Caerphilly area have been bailed.",
-      "url": "https://www.bbc.co.uk/news/articles/cmewee8keel4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Fri, 06 Nov 2026 18:40:12 GMT"
-    },
-    {
       "title": "AI teddy for three-year-olds makes unprompted 'I can't help with killing you' remark",
       "description": "MPs and peers have urged retailers to remove AI toys from sale ahead of Black Friday and Christmas.",
       "url": "https://www.bbc.co.uk/news/articles/c6x2w4ej245ko?at_medium=RSS&at_campaign=rss",
@@ -142,11 +142,25 @@
       "published": "Tue, 03 Nov 2026 06:13:17 GMT"
     },
     {
-      "title": "Wales let themselves down despite win - Lake",
-      "description": "Captain Dewi Lake knows there is plenty to improve following a lacklustre 28-21 Nations Championship victory over Japan.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/crgj9323we9go?at_medium=RSS&at_campaign=rss",
+      "title": "Why Wales have a lot to prove despite beating Japan",
+      "description": "BBC Sport Wales analyses what went right and wrong for Wales in their uninspiring 28-21 win against Japan.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cx98z74gg69mo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Sat, 07 Nov 2026 21:03:07 GMT"
+      "published": "Sun, 08 Nov 2026 10:13:56 GMT"
+    },
+    {
+      "title": "Raya, Pickford and Wales' search for a new keeper",
+      "description": "New Wales call-up Joe Duncan might be unknown to many, but some of the world's best goalkeepers have benefitted from non-league loans.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cry8335l96q5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Sun, 08 Nov 2026 09:57:58 GMT"
+    },
+    {
+      "title": "Shock changes & key results - Wrexham's seismic week",
+      "description": "BBC Sport Wales addresses the key changes made at Wrexham in what was a seismic week for the Championship club.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqrkyg434y84o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Sun, 08 Nov 2026 13:19:22 GMT"
     },
     {
       "title": "Cardiff play through pain for epic nine-goal win",
@@ -170,32 +184,39 @@
       "published": "Sun, 08 Nov 2026 01:08:03 GMT"
     },
     {
-      "title": "Wrexham owners' presence uplifting - Parkinson",
-      "description": "Phil Parkinson says Wrexham always feel uplifted when co-owners Ryan Reynolds and Rob Mac attend a fixture after the duo watched their side's 1-1 draw with Wolverhampton Wanderers at the Racecourse Ground.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyv05qwvj1o?at_medium=RSS&at_campaign=rss",
+      "title": "Wales' Boyd-Ward to make Wheelchair World Cup history",
+      "description": "Jodie Boyd-Ward will become the first player in Wheelchair Rugby League history to win 50 caps when she leads Wales against New Zealand.",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cmd7q1089dpno?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Sat, 07 Nov 2026 15:26:27 GMT"
+      "published": "Sun, 08 Nov 2026 13:08:48 GMT"
     },
     {
-      "title": "Tri pherson wedi'u harestio ar ôl digwyddiad yn ymwneud ag arfau tanio",
-      "description": "Mae tri pherson wedi cael eu harestio yn dilyn digwyddiad yn ymwneud ag arfau tanio yn ardal Treforys, Abertawe",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c6ly0079wjx4o?at_medium=RSS&at_campaign=rss",
+      "title": "Digwyddiadau a chyfnod o dawelwch ar draws Cymru ar Sul y Cofio",
+      "description": "Mae gwasanaethau a seremonïau wedi cael eu cynnal drwy Gymru i gofio am y rhai a gollodd eu bywydau mewn rhyfeloedd.",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqkg5xgjn0kro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Sat, 07 Nov 2026 15:16:47 GMT"
+      "published": "Sun, 08 Nov 2026 13:20:02 GMT"
     },
     {
-      "title": "Cerdded 120 milltir y mis – yn 92 oed",
-      "description": "'Dal ati' ydi cyngor John Morgan Jôb, gafodd sioc yn ddiweddar ar ôl cael gwybod ei fod wedi cerdded pellter 60 marathon mewn blwyddyn.",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cmz65zz9vvnzo?at_medium=RSS&at_campaign=rss",
+      "title": "Newid rheolau glanhau Airbnb 'am roi mwy o straen' ar berchnogion",
+      "description": "Bydd rheolau newydd Airbnb yn rhoi \"mwy o straen\" ar berchnogion, yn ôl un sy'n gosod llety gwyliau drwy'r cwmni.",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cq39887ngv38o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Sat, 07 Nov 2026 07:19:26 GMT"
+      "published": "Sun, 08 Nov 2026 07:20:43 GMT"
     },
     {
-      "title": "Cwis: Cymru a Japan",
-      "description": "Beth wyddoch chi am y cysylltiadau rhwng Cymru a'n gwrthwynebwyr cyntaf yng Nghyfres yr Hydref?",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cmz65zq3y2xdo?at_medium=RSS&at_campaign=rss",
+      "title": "Y 'pentrefi diolchgar' lle daeth pob un llanc adref yn ddiogel",
+      "description": "Mae tri 'pentref diolchgar' yng Nghymru lle does dim angen cofeb rhyfel, am fod pawb wedi dod yn ôl adref o faes y gad.",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c617k11d8v48o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Sat, 07 Nov 2026 08:23:00 GMT"
+      "published": "Sun, 08 Nov 2026 07:21:53 GMT"
+    },
+    {
+      "title": "Mei Gwynedd ac Oasis: 'It's not gobbledegook Liam it's Cymraeg!'",
+      "description": "Y cerddor sy'n cofio noson allan efo'r band byd-enwog yng Nghaerdydd pan fuon nhw'n trafod cerddoriaeth Gymraeg, yr iaith, a gwyliau ar Ynys Môn.",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/crkg7e4238lzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Sun, 08 Nov 2026 09:37:59 GMT"
     }
   ]
 }

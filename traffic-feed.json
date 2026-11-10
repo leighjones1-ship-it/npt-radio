@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-10T07:51:53.950100+00:00",
+  "updated_at": "2026-11-10T15:53:25.655037+00:00",
   "source": "Traffic Wales",
   "items": [
+    {
+      "title": "M4 : Westbound : J42 Earlswood to J43 Llandarcy : Congestion : Delays possible :",
+      "description": "Description: M4 : Westbound : J42 Earlswood to J43 Llandarcy : Congestion : Delays possible :, Start time: 10/11/2026 15:49 , Expected end time: 10/11/2026 18:49, Severity: Moderate, Source: Welsh Government, Last updated: 10/11/2026 15:49",
+      "url": "https://traffic.wales/road-traffic-alerts/595762"
+    },
+    {
+      "title": "A4232 : Northbound : A48 Interchange to M4 J33 Capel Llanilltern : Congestion : Delays possible :",
+      "description": "Description: A4232 : Northbound : A48 Interchange to M4 J33 Capel Llanilltern : Congestion : Delays possible :, Start time: 10/11/2026 15:33 , Expected end time: 10/11/2026 18:33, Severity: Moderate, Source: Welsh Government, Last updated: 10/11/2026 15:33",
+      "url": "https://traffic.wales/road-traffic-alerts/595760"
+    },
     {
       "title": "A465 : Westbound : Clydach to Brynmawr : Retaining wall works : Road closed : Diversion : 16/11/26-28/11/26 2000-0600 :",
       "description": "Description: A465 : Westbound : Clydach to Brynmawr : Retaining wall works : Road closed : Diversion : 16/11/26-28/11/26 2000-0600 :, Start time: 16/11/2026 20:00 , End Date: 28/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 07/11/2026 11:41",

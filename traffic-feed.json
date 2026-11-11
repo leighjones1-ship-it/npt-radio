@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-11T01:28:39.310892+00:00",
+  "updated_at": "2026-11-11T08:00:04.906604+00:00",
   "source": "Traffic Wales",
   "items": [
+    {
+      "title": "A4232 : Northbound : A48 Interchange to M4 J33 Capel Llanilltern : Congestion : Delays possible :",
+      "description": "Description: A4232 : Northbound : A48 Interchange to M4 J33 Capel Llanilltern : Congestion : Delays possible :, Start time: 11/11/2026 7:18 , Expected end time: 11/11/2026 9:35, Severity: Moderate, Source: Welsh Government, Last updated: 11/11/2026 7:18",
+      "url": "https://traffic.wales/road-traffic-alerts/595778"
+    },
+    {
+      "title": "A483 : Both directions : Newtown to Dolfor : Incident : Fallen tree : Closed : Delays possible : Local diversions in place",
+      "description": "Description: A483 : Both directions : Newtown to Dolfor : Incident : Fallen tree : Closed : Delays possible : Local diversions in place, Start time: 11/11/2026 5:39 , Expected end time: 11/11/2026 11:39, Severity: Road closure, Source: Welsh Government, Last updated: 11/11/2026 5:39",
+      "url": "https://traffic.wales/road-traffic-alerts/595776"
+    },
     {
       "title": "A465 : Westbound : Clydach to Brynmawr : Retaining wall works : Road closed : Diversion : 16/11/26-28/11/26 2000-0600 :",
       "description": "Description: A465 : Westbound : Clydach to Brynmawr : Retaining wall works : Road closed : Diversion : 16/11/26-28/11/26 2000-0600 :, Start time: 16/11/2026 20:00 , End Date: 28/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 07/11/2026 11:41",

@@ -1,17 +1,7 @@
 {
-  "updated_at": "2026-11-13T18:44:54.038199+00:00",
+  "updated_at": "2026-11-13T23:53:21.701417+00:00",
   "source": "Traffic Wales",
   "items": [
-    {
-      "title": "A4232 : Now clear : Northbound : A48 Interchange to M4 J33 Capel Llanilltern",
-      "description": "Description: A4232 : Now clear : Northbound : A48 Interchange to M4 J33 Capel Llanilltern, Start time: 13/11/2026 18:38 , Expected end time: 13/11/2026 17:58, Severity: Moderate, Source: Welsh Government, Last updated: 13/11/2026 18:38",
-      "url": "https://traffic.wales/road-traffic-alerts/595863"
-    },
-    {
-      "title": "M4 : Now clear : Westbound : J39 Groes to J41 Pentyla/Baglan",
-      "description": "Description: M4 : Now clear : Westbound : J39 Groes to J41 Pentyla/Baglan, Start time: 13/11/2026 18:38 , Expected end time: 13/11/2026 17:52, Severity: Moderate, Source: Welsh Government, Last updated: 13/11/2026 18:38",
-      "url": "https://traffic.wales/road-traffic-alerts/595866"
-    },
     {
       "title": "M4 : Eastbound : J41 Pentyla/Baglan : 16/11/26-17/11/26 2000-0600 : Exit slip road closed : Surveys : Diversions in place :",
       "description": "Description: M4 : Eastbound : J41 Pentyla/Baglan : 16/11/26-17/11/26 2000-0600 : Exit slip road closed : Surveys : Diversions in place :, Start time: 16/11/2026 20:00 , End Date: 17/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 13/11/2026 17:50",

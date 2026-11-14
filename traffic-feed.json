@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T03:48:38.130705+00:00",
+  "updated_at": "2026-11-14T11:02:08.833917+00:00",
   "source": "Traffic Wales",
   "items": [
     {
@@ -46,11 +46,6 @@
       "title": "A465 : Westbound : Clydach to Brynmawr : Retaining wall works : Road closed : Diversion : 16/11/26-28/11/26 2000-0600 :",
       "description": "Description: A465 : Westbound : Clydach to Brynmawr : Retaining wall works : Road closed : Diversion : 16/11/26-28/11/26 2000-0600 :, Start time: 16/11/2026 20:00 , End Date: 28/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 07/11/2026 11:41",
       "url": "https://traffic.wales/road-traffic-alerts/595742"
-    },
-    {
-      "title": "M4 : Westbound : J39 Groes : Clearance work : Entry slip road closed : Diversion : 09/11/26-14/11/26 2000-0600 :",
-      "description": "Description: M4 : Westbound : J39 Groes : Clearance work : Entry slip road closed : Diversion : 09/11/26-14/11/26 2000-0600 :, Start time: 09/11/2026 20:00 , End Date: 14/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 09/11/2026 20:00",
-      "url": "https://traffic.wales/road-traffic-alerts/595678"
     },
     {
       "title": "A483 : Both directions : Newtown to Welshpool : 19/10/26-18/11/26 2000-0600 : Improvement work : Closed : Diversions in place :",

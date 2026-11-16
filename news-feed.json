@@ -1,19 +1,47 @@
 {
-  "updated_at": "2026-11-16 07:12 UTC",
+  "updated_at": "2026-11-16 22:28 UTC",
   "events": [
     {
-      "title": "I had to explain to my teacher what a young carer was - we need more support",
-      "description": "Neraya says young carers such as herself want the chance of \"a childhood of our own\".",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm0myvjv12o?at_medium=RSS&at_campaign=rss",
+      "title": "Police officers lied about searches connected to fatal crash, hearing told",
+      "description": "PC Richard Hardwick and PC Lauren Livingstone face gross misconduct allegations over their actions.",
+      "url": "https://www.bbc.co.uk/news/articles/c51k9e8e7dymo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Mon, 16 Nov 2026 06:06:33 GMT"
+      "published": "Mon, 16 Nov 2026 15:53:31 GMT"
     },
     {
-      "title": "'We've waited 73 years to be here' - Wales fans ecstatic after win over New Zealand",
-      "description": "Steve Tandy's side break a 34-match losing streak against the All Blacks that dates back to 1953.",
-      "url": "https://www.bbc.co.uk/news/articles/crz9dxnd5weeo?at_medium=RSS&at_campaign=rss",
+      "title": "Bogus bailiff left victim feeling 'like he was having a heart attack'",
+      "description": "Huw Edwards received a phone call telling him he owed £860 to a debt collection agency.",
+      "url": "https://www.bbc.co.uk/news/articles/cvglr4eze498o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Sun, 15 Nov 2026 14:25:04 GMT"
+      "published": "Mon, 16 Nov 2026 15:15:05 GMT"
+    },
+    {
+      "title": "Wales' pre-match haka light show was a 'military operation' a year in the making",
+      "description": "The dramatic scene as the All Blacks performed the haka set the tone for Wales' stunning victory.",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyd21gg4dro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Mon, 16 Nov 2026 19:49:22 GMT"
+    },
+    {
+      "title": "Sir Tom Jones announces homecoming gigs after cancelling shows due to flu",
+      "description": "Sir Tom will return to perform in Wales next year after \"a bad case of flu\" disrupted his US shows.",
+      "url": "https://www.bbc.co.uk/news/articles/cr20ve1l4x9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Mon, 16 Nov 2026 17:17:40 GMT"
+    },
+    {
+      "title": "David Chadwick confirmed as new leader of Welsh Lib Dems",
+      "description": "The 34-year-old's confirmation as his party's leader comes just two years after he became an MP.",
+      "url": "https://www.bbc.co.uk/news/articles/cw62pzdv82zro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Mon, 16 Nov 2026 15:46:28 GMT"
+    },
+    {
+      "title": "'Incredibly special' - William reveals his favourite view from first home with Catherine",
+      "description": "In a guest edition of Country Life, the prince recalls the \"magical\" landscape around Bodowen Farmhouse.",
+      "url": "https://www.bbc.co.uk/news/articles/c98r7jkx0nplo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Mon, 16 Nov 2026 11:57:35 GMT"
     },
     {
       "title": "Mansion featured in Rivals drops price by £1.5m after failing to sell",
@@ -23,18 +51,32 @@
       "published": "Mon, 16 Nov 2026 06:07:23 GMT"
     },
     {
-      "title": "Welsh Labour still committed to demands for more Senedd powers, says Skates",
-      "description": "Ken Skates denies Welsh Labour has ditched calls for the devolution of the crown estate and policing.",
-      "url": "https://www.bbc.co.uk/news/articles/crz9dx0jje7zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Sun, 15 Nov 2026 12:15:17 GMT"
-    },
-    {
       "title": "Charlotte Church closes wellness retreat after five 'beautiful' years",
       "description": "Church previously said she blew \"pretty much all my life savings\" on the £1.5m home.",
       "url": "https://www.bbc.co.uk/news/articles/c65y13z1d8eyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
       "published": "Sun, 15 Nov 2026 18:09:07 GMT"
+    },
+    {
+      "title": "I had to explain to my teacher what a young carer was - we need more support",
+      "description": "Neraya says young carers such as herself want the chance of \"a childhood of our own\".",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm0myvjv12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Mon, 16 Nov 2026 13:00:21 GMT"
+    },
+    {
+      "title": "£1m illegal tip clean-up costs still not repaid two years on",
+      "description": "Flintshire council paid more than £1m to clean up the unlicensed rubbish tip in Queensferry.",
+      "url": "https://www.bbc.co.uk/news/articles/c90k6jp04066o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Mon, 16 Nov 2026 08:38:51 GMT"
+    },
+    {
+      "title": "Welsh Labour still committed to demands for more Senedd powers, says Skates",
+      "description": "Ken Skates denies Welsh Labour has ditched calls for the devolution of the crown estate and policing.",
+      "url": "https://www.bbc.co.uk/news/articles/crz9dx0jje7zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Sun, 15 Nov 2026 12:15:17 GMT"
     },
     {
       "title": "I took in three children with my husband, who was adopted, then found out at 40 that I was too",
@@ -44,18 +86,11 @@
       "published": "Sun, 15 Nov 2026 09:59:34 GMT"
     },
     {
-      "title": "Two more charged after car damaged by gunshots",
-      "description": "Police say a car sustained damage \"consistent with a firearms discharge\".",
-      "url": "https://www.bbc.co.uk/news/articles/c65y1rdlvd0lo?at_medium=RSS&at_campaign=rss",
+      "title": "'We've waited 73 years to be here' - Wales fans ecstatic after win over New Zealand",
+      "description": "Steve Tandy's side break a 34-match losing streak against the All Blacks that dates back to 1953.",
+      "url": "https://www.bbc.co.uk/news/articles/crz9dxnd5weeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Sat, 14 Nov 2026 21:16:00 GMT"
-    },
-    {
-      "title": "'One of the greatest wins' - Wales stun All Blacks to go from no-hopers to heroes",
-      "description": "Wales end a 73-year hoodoo against New Zealand with a win hailed as their greatest of all time.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkg57rz2re9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Sat, 14 Nov 2026 19:33:46 GMT"
+      "published": "Sun, 15 Nov 2026 14:25:04 GMT"
     },
     {
       "title": "Billie Piper to star in new horror set on 'outskirts of old Welsh iron town'",
@@ -63,27 +98,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cwg7x4el85l0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
       "published": "Sun, 15 Nov 2026 15:25:06 GMT"
-    },
-    {
-      "title": "Chief executive of failing health board leaves for new job in England",
-      "description": "Carol Shillabeer became chief executive of Wales' biggest and most troubled health board in May 2023.",
-      "url": "https://www.bbc.co.uk/news/articles/cv36gp1xj5w9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Sat, 14 Nov 2026 10:49:46 GMT"
-    },
-    {
-      "title": "'It's like you're in one of his paintings' Kyffin Williams' art brought to life",
-      "description": "Technology similar to that used for exhibitions of Van Gogh, Cézanne and LS Lowry is being used.",
-      "url": "https://www.bbc.co.uk/news/articles/cwp9g9ey10dko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Sun, 15 Nov 2026 07:11:12 GMT"
-    },
-    {
-      "title": "Burnham suggests Welsh Labour lost sight of devolution as review criticises ex-first minister's strategy",
-      "description": "The prime minister said it was \"hard\" to accept the party was no longer in power after 27 years of running the Welsh government.",
-      "url": "https://www.bbc.co.uk/news/articles/cmgj340w6g8yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Sat, 14 Nov 2026 16:12:38 GMT"
     },
     {
       "title": "Woman with terminal cancer gets dream wedding on hospital ward",
@@ -135,53 +149,60 @@
       "published": "Wed, 11 Nov 2026 14:09:25 GMT"
     },
     {
-      "title": "Wales must look to back up All Blacks win - Tandy",
-      "description": "Wales head coach Steve Tandy challenges his side to build on their historic win against New Zealand when they host Australia next Saturday.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqpv9zxpny13o?at_medium=RSS&at_campaign=rss",
+      "title": "Swans in fight to keep Matos amid Strasbourg interest",
+      "description": "Vitor Matos has emerged as a target for French top-flight club Strasbourg who could soon part ways with Hugo Oliveira.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Mon, 16 Nov 2026 04:31:55 GMT"
+      "published": "Mon, 16 Nov 2026 21:01:50 GMT"
     },
     {
-      "title": "Cardiff's Kronk? The gym where Welsh champions train",
-      "description": "Under the stewardship of former middleweight champion Gary Lockett, the Phoenix club has become a home for Welsh boxing excellence.",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/cmy4xxqv150yo?at_medium=RSS&at_campaign=rss",
+      "title": "Inside Wales' dressing room - how Lake inspired history",
+      "description": "Dewi Lake's rousing team talk helped ensure Wales did not let the chance to make history against New Zealand slip away.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6808vp8497ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Mon, 16 Nov 2026 04:16:50 GMT"
+      "published": "Mon, 16 Nov 2026 21:32:33 GMT"
     },
     {
-      "title": "What Wales need to stay in Nations League top tier",
-      "description": "BBC Sport Wales explains how Wales can stay in the Nations League top tier despite finishing bottom of their group.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmx28nxw1elvo?at_medium=RSS&at_campaign=rss",
+      "title": "The Botham hiding in plain sight - Wales' unlikely hero",
+      "description": "James Botham is accustomed to working away from the spotlight, but his performance could not be denied against New Zealand.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm9q87xdxyz2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Sat, 14 Nov 2026 20:52:48 GMT"
+      "published": "Mon, 16 Nov 2026 17:07:02 GMT"
     },
     {
-      "title": "All Blacks win can keep Welsh fans roaring - James",
-      "description": "Eddie James and Taine Basham are hungry for more after helping Wales make history against New Zealand, with Australia next up in Cardiff.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6n83gn2mv3vo?at_medium=RSS&at_campaign=rss",
+      "title": "Wales without injured Williams for Portugal game",
+      "description": "Wales will be without right-back Neco Williams for their final Nations League group match against Portugal, while goalkeeper Karl Darlow is a doubt.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgk3nv6pqyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Sun, 15 Nov 2026 19:10:43 GMT"
+      "published": "Mon, 16 Nov 2026 15:55:16 GMT"
     },
     {
-      "title": "Clayton slumps out of Grand Slam with heavy Cross defeat",
-      "description": "Beau Greaves' win over Niels Zonneveld is in vain as she is knocked out of the Grand Slam of Darts because of Saturday's heavy defeat by Luke Littler.",
-      "url": "https://www.bbc.co.uk/sport/darts/articles/cxlylvy2m5lqo?at_medium=RSS&at_campaign=rss",
+      "title": "Time for WRU to match team's leadership - Davies",
+      "description": "Welsh legend Sir Gerald Davies questions the Welsh Rugby Union's ability to capitalise on the nation's historic victory over New Zealand.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c65y1vlpjdeno?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Sun, 15 Nov 2026 22:54:50 GMT"
+      "published": "Mon, 16 Nov 2026 12:38:29 GMT"
     },
     {
-      "title": "Defensive desire a Welsh hallmark - Roberts",
-      "description": "Former Wales centre Jamie Roberts says the heroic defensive effort to beat New Zealand for the first time since 1953 showed what it meant to be Welsh.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c95y1m63515ko?at_medium=RSS&at_campaign=rss",
+      "title": "Morgan adds to Wales worries before play-off final",
+      "description": "Ffion Morgan rejoins Wales' lengthy injury list as Rhian Wilkinson prepares to name her squad for December's World Cup play-off final against Norway.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm70286jdlgpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Sun, 15 Nov 2026 14:02:12 GMT"
+      "published": "Mon, 16 Nov 2026 13:37:21 GMT"
     },
     {
-      "title": "Highlights: Haaland helps Norway to win over Wales",
-      "description": "Watch the best of the action as Norway beat Wales in the Nations League in Oslo.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cr20vgxv43p8o?at_medium=RSS&at_campaign=rss",
+      "title": "We let the country down - All Blacks coach Rennie",
+      "description": "New Zealand head coach Dave Rennie demands a reaction against England, as he acknowledges the All Blacks \"let the country down\" by losing to Wales.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6q8lq7kqn5vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Sat, 14 Nov 2026 19:23:13 GMT"
+      "published": "Mon, 16 Nov 2026 16:57:32 GMT"
+    },
+    {
+      "title": "Yr actor, y llenor a'r cyfarwyddwr theatr, Jeremy Turner, wedi marw",
+      "description": "Roedd Jeremy Turner yn un o sefydlwyr cwmni theatr Arad Goch a bu'n gyfarwyddwr artistig am 35 mlynedd.",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c6pv9nr0nr4do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News Wales",
+      "published": "Mon, 16 Nov 2026 16:10:54 GMT"
     },
     {
       "title": "'100 o geisiadau am swydd ond dim llwyddiant' - yr her sy'n wynebu pobl ifanc",
@@ -191,25 +212,18 @@
       "published": "Mon, 16 Nov 2026 06:01:23 GMT"
     },
     {
-      "title": "Strategaeth genedlaethol newydd i gefnogi gofalwyr di-dâl",
-      "description": "Mae Llywodraeth Cymru'n cyhoeddi strategaeth newydd yn ystod y dydd i gefnogi gofalwyr di-dâl yn well.",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c34gnqn4z7dzo?at_medium=RSS&at_campaign=rss",
+      "title": "Dedfryd dyn o Lanelwy wnaeth gam-drin ei gyn-bartner yn 'anaddas'",
+      "description": "Mae 'na alwadau i ailedrych ar ddedfryd dyn o Sir Ddinbych a gafodd ei garcharu'r wythnos diwethaf am ymddygiad \"dychrynllyd\" tuag at ei gyn-bartner.",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cm2d9xrpjlzlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Mon, 16 Nov 2026 06:00:54 GMT"
+      "published": "Mon, 16 Nov 2026 20:20:06 GMT"
     },
     {
-      "title": "'Fi'n un o'r ychydig sydd wedi gweld Cymru'n curo Seland Newydd ddwywaith!'",
-      "description": "Arbenigwyr a chefnogwyr yn ymateb wedi buddugoliaeth hanesyddol tîm rygbi Cymru yn erbyn Seland Newydd ym Mhencampwriaeth y Cenhedloedd.",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cmly5dw8nn9lo?at_medium=RSS&at_campaign=rss",
+      "title": "Lluniau: Gŵyl Cerdd Dant 2026",
+      "description": "Rhai o'r golygfeydd o Gaernarfon wrth i'r ŵyl ddod i'r dref",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cmly7gqevzvxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News Wales",
-      "published": "Sun, 15 Nov 2026 14:38:59 GMT"
-    },
-    {
-      "title": "Ateb y Galw: Tyler Owen, enillydd Bar Hansh",
-      "description": "Enillydd y gyfres ddigidol boblogaidd, Bar Hansh, sy'n ateb cwestiynau busneslyd Cymru Fyw.",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cm9dzd200jvzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Wales",
-      "published": "Mon, 16 Nov 2026 07:07:02 GMT"
+      "published": "Mon, 16 Nov 2026 16:19:29 GMT"
     }
   ]
 }

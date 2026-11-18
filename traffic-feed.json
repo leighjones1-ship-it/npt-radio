@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T04:54:20.388647+00:00",
+  "updated_at": "2026-11-18T13:32:37.761679+00:00",
   "source": "Traffic Wales",
   "items": [
     {
@@ -36,16 +36,6 @@
       "title": "A465 : Westbound : Clydach to Brynmawr : Retaining wall works : Road closed : Diversion : 16/11/26-28/11/26 2000-0600 :",
       "description": "Description: A465 : Westbound : Clydach to Brynmawr : Retaining wall works : Road closed : Diversion : 16/11/26-28/11/26 2000-0600 :, Start time: 16/11/2026 20:00 , End Date: 28/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 16/11/2026 20:00",
       "url": "https://traffic.wales/road-traffic-alerts/595742"
-    },
-    {
-      "title": "A483 : Both directions : Newtown to Welshpool : 19/10/26-18/11/26 2000-0600 : Improvement work : Closed : Diversions in place :",
-      "description": "Description: A483 : Both directions : Newtown to Welshpool : 19/10/26-18/11/26 2000-0600 : Improvement work : Closed : Diversions in place :, Start time: 19/10/2026 20:00 , End Date: 18/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 19/10/2026 20:00",
-      "url": "https://traffic.wales/road-traffic-alerts/595030"
-    },
-    {
-      "title": "A483 : Both directions : Abermule : 19/10/26-18/11/26 2000-0600 : Carriageway maintenance : Closed : Diversions in place :",
-      "description": "Description: A483 : Both directions : Abermule : 19/10/26-18/11/26 2000-0600 : Carriageway maintenance : Closed : Diversions in place :, Start time: 19/10/2026 20:00 , End Date: 18/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 19/10/2026 20:00",
-      "url": "https://traffic.wales/road-traffic-alerts/594998"
     }
   ]
 }

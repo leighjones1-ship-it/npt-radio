@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-11-17T23:50:00.010246+00:00",
+  "updated_at": "2026-11-18T04:54:20.388647+00:00",
   "source": "Traffic Wales",
   "items": [
+    {
+      "title": "A487 : Both directions : Maentwrog : Resurfacing work : Temporary traffic lights : 24/11/26-28/11/26 1800-0600 :",
+      "description": "Description: A487 : Both directions : Maentwrog : Resurfacing work : Temporary traffic lights : 24/11/26-28/11/26 1800-0600 :, Start time: 24/11/2026 18:00 , End Date: 28/11/2026 6:00, Severity: Moderate, Source: Welsh Government, Last updated: 17/11/2026 10:22",
+      "url": "https://traffic.wales/road-traffic-alerts/595971"
+    },
     {
       "title": "M4 : Eastbound : J38 Margam : 23/11/26-04/12/26 2000-0600 : Environmental work : Onslip closed : Diversions in place :",
       "description": "Description: M4 : Eastbound : J38 Margam : 23/11/26-04/12/26 2000-0600 : Environmental work : Onslip closed : Diversions in place :, Start time: 23/11/2026 20:00 , End Date: 04/12/2026 6:00, Severity: Moderate, Source: Welsh Government, Last updated: 16/11/2026 15:51",
@@ -11,11 +16,6 @@
       "title": "M4 : Eastbound : J40 Taibach to J39 Groes : 19/11/26-20/11/26 2000-0025 : Exit slip road closed : Entry slip road closed : Cyclic maintenance : Closed : Diversions in place :",
       "description": "Description: M4 : Eastbound : J40 Taibach to J39 Groes : 19/11/26-20/11/26 2000-0025 : Exit slip road closed : Entry slip road closed : Cyclic maintenance : Closed : Diversions in place :, Start time: 19/11/2026 20:00 , End Date: 20/11/2026 0:25, Severity: Road closure, Source: Welsh Government, Last updated: 13/11/2026 17:48",
       "url": "https://traffic.wales/road-traffic-alerts/595859"
-    },
-    {
-      "title": "M4 : Westbound : J38 Margam to J41 Pentyla/Baglan : 17/11/26-18/11/26 0800-0025 : Cyclic maintenance : Exit slip road closed : Entry slip road closed : Diversions in place :",
-      "description": "Description: M4 : Westbound : J38 Margam to J41 Pentyla/Baglan : 17/11/26-18/11/26 0800-0025 : Cyclic maintenance : Exit slip road closed : Entry slip road closed : Diversions in place :, Start time: 17/11/2026 8:00 , End Date: 18/11/2026 0:25, Severity: Road closure, Source: Welsh Government, Last updated: 17/11/2026 8:00",
-      "url": "https://traffic.wales/road-traffic-alerts/595858"
     },
     {
       "title": "A465 : Southbound : Aberdulais to Neath : 19/11/26-20/11/26 2000-0100 : Carriageway maintenance : Closed : Diversions in place :",

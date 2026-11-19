@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T02:47:49.453146+00:00",
+  "updated_at": "2026-11-19T10:50:34.303732+00:00",
   "source": "Traffic Wales",
   "items": [
     {
@@ -26,11 +26,6 @@
       "title": "A483 : Both directions : Newtown to Welshpool : Road closed : Carriageway maintenance : Monday to Friday working : 19/11/26-18/12/26 2000-0600 : Diversions in place :",
       "description": "Description: A483 : Both directions : Newtown to Welshpool : Road closed : Carriageway maintenance : Monday to Friday working : 19/11/26-18/12/26 2000-0600 : Diversions in place :, Start time: 19/11/2026 20:00 , End Date: 18/12/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 10/11/2026 14:44",
       "url": "https://traffic.wales/road-traffic-alerts/595835"
-    },
-    {
-      "title": "A465 : Eastbound : Llandarcy to Saltings : 18/11/26-19/11/26 2000-0600 : Resurfacing work : Closed : Diversions in place :",
-      "description": "Description: A465 : Eastbound : Llandarcy to Saltings : 18/11/26-19/11/26 2000-0600 : Resurfacing work : Closed : Diversions in place :, Start time: 18/11/2026 20:00 , End Date: 19/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 18/11/2026 20:00",
-      "url": "https://traffic.wales/road-traffic-alerts/595827"
     },
     {
       "title": "A465 : Westbound : Clydach to Brynmawr : Retaining wall works : Road closed : Diversion : 16/11/26-28/11/26 2000-0600 :",

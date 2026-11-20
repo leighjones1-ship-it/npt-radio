@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T19:13:21.100694+00:00",
+  "updated_at": "2026-11-20T01:15:26.903629+00:00",
   "source": "Traffic Wales",
   "items": [
     {
@@ -13,18 +13,8 @@
       "url": "https://traffic.wales/road-traffic-alerts/595914"
     },
     {
-      "title": "M4 : Eastbound : J40 Taibach to J39 Groes : 19/11/26-20/11/26 2000-0025 : Exit slip road closed : Entry slip road closed : Cyclic maintenance : Closed : Diversions in place :",
-      "description": "Description: M4 : Eastbound : J40 Taibach to J39 Groes : 19/11/26-20/11/26 2000-0025 : Exit slip road closed : Entry slip road closed : Cyclic maintenance : Closed : Diversions in place :, Start time: 19/11/2026 20:00 , End Date: 20/11/2026 0:25, Severity: Road closure, Source: Welsh Government, Last updated: 13/11/2026 17:48",
-      "url": "https://traffic.wales/road-traffic-alerts/595859"
-    },
-    {
-      "title": "A465 : Southbound : Aberdulais to Neath : 19/11/26-20/11/26 2000-0100 : Carriageway maintenance : Closed : Diversions in place :",
-      "description": "Description: A465 : Southbound : Aberdulais to Neath : 19/11/26-20/11/26 2000-0100 : Carriageway maintenance : Closed : Diversions in place :, Start time: 19/11/2026 20:00 , End Date: 20/11/2026 1:00, Severity: Road closure, Source: Welsh Government, Last updated: 13/11/2026 17:13",
-      "url": "https://traffic.wales/road-traffic-alerts/595852"
-    },
-    {
       "title": "A483 : Both directions : Newtown to Welshpool : Road closed : Carriageway maintenance : Monday to Friday working : 19/11/26-18/12/26 2000-0600 : Diversions in place :",
-      "description": "Description: A483 : Both directions : Newtown to Welshpool : Road closed : Carriageway maintenance : Monday to Friday working : 19/11/26-18/12/26 2000-0600 : Diversions in place :, Start time: 19/11/2026 20:00 , End Date: 18/12/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 10/11/2026 14:44",
+      "description": "Description: A483 : Both directions : Newtown to Welshpool : Road closed : Carriageway maintenance : Monday to Friday working : 19/11/26-18/12/26 2000-0600 : Diversions in place :, Start time: 19/11/2026 20:00 , End Date: 18/12/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 19/11/2026 20:00",
       "url": "https://traffic.wales/road-traffic-alerts/595835"
     },
     {

@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-11-20T17:17:37.020842+00:00",
+  "updated_at": "2026-11-20T23:13:28.990916+00:00",
   "source": "Traffic Wales",
   "items": [
+    {
+      "title": "A465 : Westbound : Rhigos to Glynneath : Roadworks : Closed : Diversions in place : 25/11/26-26/11/26 1900-0100 :",
+      "description": "Description: A465 : Westbound : Rhigos to Glynneath : Roadworks : Closed : Diversions in place : 25/11/26-26/11/26 1900-0100 :, Start time: 25/11/2026 19:00 , End Date: 26/11/2026 1:00, Severity: Road closure, Source: Welsh Government, Last updated: 20/11/2026 17:33",
+      "url": "https://traffic.wales/road-traffic-alerts/596062"
+    },
     {
       "title": "A487 : Both directions : Maentwrog : Resurfacing work : Temporary traffic lights : 24/11/26-28/11/26 1800-0600 :",
       "description": "Description: A487 : Both directions : Maentwrog : Resurfacing work : Temporary traffic lights : 24/11/26-28/11/26 1800-0600 :, Start time: 24/11/2026 18:00 , End Date: 28/11/2026 6:00, Severity: Moderate, Source: Welsh Government, Last updated: 17/11/2026 10:22",

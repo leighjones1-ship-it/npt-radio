@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-11-23T00:28:29.498346+00:00",
+  "updated_at": "2026-11-23T07:58:59.493275+00:00",
   "source": "Traffic Wales",
   "items": [
+    {
+      "title": "A465 : Westbound : Neath to Llandarcy : Congestion : Delays possible :",
+      "description": "Description: A465 : Westbound : Neath to Llandarcy : Congestion : Delays possible :, Start time: 23/11/2026 7:20 , Expected end time: 23/11/2026 11:20, Severity: Moderate, Source: Welsh Government, Last updated: 23/11/2026 7:20",
+      "url": "https://traffic.wales/road-traffic-alerts/596090"
+    },
     {
       "title": "A465 : Westbound : Rhigos to Glynneath : Roadworks : Closed : Diversions in place : 25/11/26-26/11/26 1900-0100 :",
       "description": "Description: A465 : Westbound : Rhigos to Glynneath : Roadworks : Closed : Diversions in place : 25/11/26-26/11/26 1900-0100 :, Start time: 25/11/2026 19:00 , End Date: 26/11/2026 1:00, Severity: Road closure, Source: Welsh Government, Last updated: 20/11/2026 17:33",

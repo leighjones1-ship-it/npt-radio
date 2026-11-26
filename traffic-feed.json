@@ -1,11 +1,21 @@
 {
-  "updated_at": "2026-11-26T00:33:12.155724+00:00",
+  "updated_at": "2026-11-26T08:52:44.764181+00:00",
   "source": "Traffic Wales",
   "items": [
     {
-      "title": "A465 : Westbound : Rhigos to Glynneath : Roadworks : Closed : Diversions in place : 25/11/26-26/11/26 1900-0100 :",
-      "description": "Description: A465 : Westbound : Rhigos to Glynneath : Roadworks : Closed : Diversions in place : 25/11/26-26/11/26 1900-0100 :, Start time: 25/11/2026 19:00 , End Date: 26/11/2026 1:00, Severity: Road closure, Source: Welsh Government, Last updated: 25/11/2026 19:00",
-      "url": "https://traffic.wales/road-traffic-alerts/596062"
+      "title": "A465 : Westbound : Neath to Llandarcy : Congestion : Delays possible :",
+      "description": "Description: A465 : Westbound : Neath to Llandarcy : Congestion : Delays possible :, Start time: 26/11/2026 8:37 , Expected end time: 26/11/2026 10:37, Severity: Moderate, Source: Welsh Government, Last updated: 26/11/2026 8:37",
+      "url": "https://traffic.wales/road-traffic-alerts/596193"
+    },
+    {
+      "title": "A4232 : Northbound : A48 Interchange to M4 J33 Capel Llanilltern : Congestion : Delays possible :",
+      "description": "Description: A4232 : Northbound : A48 Interchange to M4 J33 Capel Llanilltern : Congestion : Delays possible :, Start time: 26/11/2026 7:42 , Expected end time: 26/11/2026 9:12, Severity: Moderate, Source: Welsh Government, Last updated: 26/11/2026 7:42",
+      "url": "https://traffic.wales/road-traffic-alerts/596192"
+    },
+    {
+      "title": "A48M : Westbound : J29 Castleton to J29A St Mellons : Congestion : Delays possible :",
+      "description": "Description: A48M : Westbound : J29 Castleton to J29A St Mellons : Congestion : Delays possible :, Start time: 26/11/2026 7:28 , Expected end time: 26/11/2026 9:28, Severity: Moderate, Source: Welsh Government, Last updated: 26/11/2026 7:28",
+      "url": "https://traffic.wales/road-traffic-alerts/596191"
     },
     {
       "title": "A487 : Both directions : Maentwrog : Resurfacing work : Temporary traffic lights : 24/11/26-28/11/26 1800-0600 :",

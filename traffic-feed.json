@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-11-28T02:09:37.106163+00:00",
+  "updated_at": "2026-11-28T10:17:12.110162+00:00",
   "source": "Traffic Wales",
   "items": [
+    {
+      "title": "A465 : Southbound : Aberdulais to Neath : 03/12/26-04/12/26 2000-0100 : Carriageway maintenance : Closed : Diversions in place :",
+      "description": "Description: A465 : Southbound : Aberdulais to Neath : 03/12/26-04/12/26 2000-0100 : Carriageway maintenance : Closed : Diversions in place :, Start time: 03/12/2026 20:00 , End Date: 04/12/2026 1:00, Severity: Road closure, Source: Welsh Government, Last updated: 28/11/2026 8:11",
+      "url": "https://traffic.wales/road-traffic-alerts/596235"
+    },
     {
       "title": "M4 : Eastbound : J38 Margam : 23/11/26-04/12/26 2000-0600 : Environmental work : Onslip closed : Diversions in place :",
       "description": "Description: M4 : Eastbound : J38 Margam : 23/11/26-04/12/26 2000-0600 : Environmental work : Onslip closed : Diversions in place :, Start time: 23/11/2026 20:00 , End Date: 04/12/2026 6:00, Severity: Moderate, Source: Welsh Government, Last updated: 23/11/2026 20:00",
@@ -11,11 +16,6 @@
       "title": "A483 : Both directions : Newtown to Welshpool : Road closed : Carriageway maintenance : Monday to Friday working : 19/11/26-18/12/26 2000-0600 : Diversions in place :",
       "description": "Description: A483 : Both directions : Newtown to Welshpool : Road closed : Carriageway maintenance : Monday to Friday working : 19/11/26-18/12/26 2000-0600 : Diversions in place :, Start time: 19/11/2026 20:00 , End Date: 18/12/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 19/11/2026 20:00",
       "url": "https://traffic.wales/road-traffic-alerts/595835"
-    },
-    {
-      "title": "A465 : Westbound : Clydach to Brynmawr : Retaining wall works : Road closed : Diversion : 16/11/26-28/11/26 2000-0600 :",
-      "description": "Description: A465 : Westbound : Clydach to Brynmawr : Retaining wall works : Road closed : Diversion : 16/11/26-28/11/26 2000-0600 :, Start time: 16/11/2026 20:00 , End Date: 28/11/2026 6:00, Severity: Road closure, Source: Welsh Government, Last updated: 16/11/2026 20:00",
-      "url": "https://traffic.wales/road-traffic-alerts/595742"
     }
   ]
 }
